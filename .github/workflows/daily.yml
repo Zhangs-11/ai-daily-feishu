@@ -1,0 +1,26 @@
+name: AI HOT 日报推送
+
+on:
+  schedule:
+    # 每天北京时间 09:00 = UTC 01:00
+    - cron: "0 1 * * *"
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  send-daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send daily report
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: python send_daily.py
