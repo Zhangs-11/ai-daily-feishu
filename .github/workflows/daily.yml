@@ -1,10 +1,7 @@
 name: AI HOT 日报推送
 
 on:
-  schedule:
-    # 每天北京时间 09:00 = UTC 01:00
-    - cron: "0 1 * * *"
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:  # 由本地 crontab 触发
 
 jobs:
   send-daily:
@@ -22,5 +19,5 @@ jobs:
 
       - name: Send daily report
         env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL: \${{ secrets.FEISHU_WEBHOOK_URL }}
         run: python send_daily.py
