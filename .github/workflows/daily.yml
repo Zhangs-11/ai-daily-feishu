@@ -19,5 +19,5 @@ jobs:
 
       - name: Send daily report
         env:
-          FEISHU_WEBHOOK_URL: \${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
         run: python send_daily.py
