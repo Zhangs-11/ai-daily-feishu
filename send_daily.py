@@ -3,6 +3,7 @@
 
 import os
 import json
+import time
 import requests
 from datetime import datetime, timezone, timedelta
 
@@ -130,12 +131,41 @@ def build_summary_card(items):
     }
 
 
+# 飞书频控类错误码，遇到这些就退避重试（11232 / 9499 都是 frequency limited）
+FREQ_LIMIT_CODES = {11232, 9499}
+MAX_RETRIES = 3
+BACKOFF_SECONDS = [5, 10, 20]
+
+
 def send_feishu(message):
-    resp = requests.post(WEBHOOK_URL, json=message, timeout=15)
-    resp.raise_for_status()
-    result = resp.json()
-    if result.get("code") != 0:
-        raise Exception(f"飞书 API 错误: {result}")
+    last_err = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            resp = requests.post(WEBHOOK_URL, json=message, timeout=15)
+            resp.raise_for_status()
+            result = resp.json()
+            code = result.get("code")
+            if code == 0:
+                return
+            # 频控错误：退避后重试；其它业务错误直接抛
+            if code in FREQ_LIMIT_CODES and attempt < MAX_RETRIES - 1:
+                wait = BACKOFF_SECONDS[attempt]
+                print(f"⚠️ 飞书频控 {code}，{wait}s 后重试（第 {attempt + 1}/{MAX_RETRIES} 次）")
+                time.sleep(wait)
+                last_err = Exception(f"飞书 API 错误: {result}")
+                continue
+            raise Exception(f"飞书 API 错误: {result}")
+        except requests.RequestException as e:
+            # 网络/超时类错误也退避重试
+            if attempt < MAX_RETRIES - 1:
+                wait = BACKOFF_SECONDS[attempt]
+                print(f"⚠️ 请求异常 {e}，{wait}s 后重试（第 {attempt + 1}/{MAX_RETRIES} 次）")
+                time.sleep(wait)
+                last_err = e
+                continue
+            raise
+    if last_err:
+        raise last_err
 
 
 def main():
