@@ -6,8 +6,12 @@
 
 数据源：Hacker News / V2EX / 掘金热榜 / 知乎热榜 / 微博热搜 / Reddit / AI HOT。
 单个源抓取失败不影响其余源，失败的源会在卡片底部标注。
+
+近期已推过的条目不过滤（连续在榜本身是选题信号），只在标题后加灰色
+「已推 · MM-DD」标记；推送记录存 pushed_history.json，由 workflow 提交回仓库。
 """
 
+import json
 import os
 import time
 import requests
@@ -17,6 +21,10 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 AIHOT_BASE = "https://aihot.virxact.com"
 WEBHOOK_URL = os.environ.get("XUANTI_FEISHU_WEBHOOK_URL")
 TIMEOUT = 15
+
+# 已推送记录：{链接: {"first": 首次推送日, "last": 最近出现日}}，键用链接因为标题可能被平台改动
+HISTORY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pushed_history.json")
+HISTORY_KEEP_DAYS = 7
 
 
 def fetch_hackernews(limit=10):
@@ -136,11 +144,34 @@ SOURCES = [
 ]
 
 
-def build_card(results, failed):
-    date = (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d")
+def load_history():
+    """读取已推送记录；文件缺失或损坏时按空记录处理（首次运行、误删都能自愈）"""
+    try:
+        with open(HISTORY_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def save_history(history, results, today):
+    """把本次推送的条目并入记录，并清掉超过保留期未再出现的旧条目"""
+    for _, items in results:
+        for _, url in items:
+            entry = history.get(url)
+            if entry:
+                entry["last"] = today
+            else:
+                history[url] = {"first": today, "last": today}
+    cutoff = (datetime.strptime(today, "%Y-%m-%d") - timedelta(days=HISTORY_KEEP_DAYS)).strftime("%Y-%m-%d")
+    history = {u: e for u, e in history.items() if e.get("last", "") >= cutoff}
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=1)
+
+
+def build_card(results, failed, history, today):
     elements = [{
         "tag": "markdown",
-        "content": f"📮 **选题池日报 · {date}**\n扫一眼，心动的丢进选题池，不筛选、不展开。",
+        "content": f"📮 **选题池日报 · {today}**\n扫一眼，心动的丢进选题池，不筛选、不展开。灰色〔已推〕= 近 7 天出现过的老面孔。",
     }]
 
     for label, items in results:
@@ -150,7 +181,12 @@ def build_card(results, failed):
         lines = [f"**{label}**"]
         for idx, (title, url) in enumerate(items):
             safe_url = url.replace(")", "%29")
-            lines.append(f"{idx + 1}. [{title}]({safe_url})")
+            line = f"{idx + 1}. [{title}]({safe_url})"
+            entry = history.get(url)
+            if entry:
+                first = "今日" if entry["first"] == today else entry["first"][5:]
+                line += f' <font color="grey">〔已推 · {first}〕</font>'
+            lines.append(line)
         elements.append({"tag": "markdown", "content": "\n".join(lines)})
 
     if failed:
@@ -165,7 +201,7 @@ def build_card(results, failed):
         "card": {
             "config": {"wide_screen_mode": True},
             "header": {
-                "title": {"tag": "plain_text", "content": f"📮 选题池日报 · {date}"},
+                "title": {"tag": "plain_text", "content": f"📮 选题池日报 · {today}"},
                 "template": "green",
             },
             "elements": elements,
@@ -225,7 +261,11 @@ def main():
     if not any(items for _, items in results):
         raise Exception("所有数据源均抓取失败，放弃推送")
 
-    send_feishu(build_card(results, failed))
+    today = (datetime.now(timezone.utc) + timedelta(hours=8)).strftime("%Y-%m-%d")
+    history = load_history()
+    send_feishu(build_card(results, failed, history, today))
+    # 发送成功才写记录：发送失败时不记，避免下次把从未送达的条目标成「已推」
+    save_history(history, results, today)
     print("✅ 选题池日报已推送")
 
 
