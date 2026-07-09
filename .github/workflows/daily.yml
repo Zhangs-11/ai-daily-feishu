@@ -2,7 +2,7 @@ name: AI HOT 日报推送
 
 on:
   schedule:
-    - cron: "6 2 * * *"  # UTC 02:06 = 北京时间 10:06，与原本地 crontab 时间一致（GitHub 定时可能延迟 10-40 分钟）
+    - cron: "23 2 * * *"  # UTC 02:23 = 北京时间 10:23。避开高峰分钟，贴近原 10:06 的习惯时间
   workflow_dispatch:  # 保留手动/本地触发
 
 jobs:

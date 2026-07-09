@@ -2,7 +2,7 @@ name: 选题池日报推送
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # UTC 01:00 = 北京时间 09:00（GitHub 定时可能延迟 10-40 分钟）
+    - cron: "47 0 * * *"  # UTC 00:47 = 北京时间 08:47。避开整点：GitHub 高负载时整点 schedule 会被延迟甚至丢弃
   workflow_dispatch:  # 也支持本地 crontab / 手动触发
 
 jobs:
