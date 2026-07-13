@@ -101,7 +101,7 @@
  },
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-07-12"
+  "last": "2026-07-13"
  },
  "https://www.v2ex.com/t/1226243": {
   "first": "2026-07-10",
@@ -513,11 +513,11 @@
  },
  "https://juejin.cn/post/7660229701227675663": {
   "first": "2026-07-12",
-  "last": "2026-07-12"
+  "last": "2026-07-13"
  },
  "https://juejin.cn/post/7660030380293357609": {
   "first": "2026-07-12",
-  "last": "2026-07-12"
+  "last": "2026-07-13"
  },
  "https://juejin.cn/post/7659981643583684634": {
   "first": "2026-07-12",
@@ -529,7 +529,7 @@
  },
  "https://juejin.cn/post/7660697495832035362": {
   "first": "2026-07-12",
-  "last": "2026-07-12"
+  "last": "2026-07-13"
  },
  "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/": {
   "first": "2026-07-12",
@@ -570,5 +570,213 @@
  "https://igropyr.com": {
   "first": "2026-07-12",
   "last": "2026-07-12"
+ },
+ "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%ADR1SE": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A86%E5%B0%8F%E6%97%B6%E9%81%93%E8%B7%AF%E7%A7%AF%E6%B0%B4%E8%B6%852%E7%B1%B3": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A7%A6%E5%8F%8A%E8%B7%8C%E5%81%9C": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BE%90%E4%BD%B3%E5%AE%81%E7%A6%BB%E5%A9%9A": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E6%8B%8D%E9%97%A8%E9%81%AD%E6%8D%85%E6%9D%80%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E9%94%99%E4%B8%8D%E8%87%B3%E6%AD%BB": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E5%8F%88%E5%BC%80%E5%A7%8B%E5%A4%A7%E7%82%B9%E5%90%8D": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B9%90%E5%8D%8EJYP%E9%83%BD%E7%BB%99%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E8%BF%87%E9%82%80%E8%AF%B7": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E5%91%98%E9%9B%86%E4%BD%93%E9%AB%98%E5%96%8A%E5%8F%8D%E8%8B%B1%E5%8F%A3%E5%8F%B7": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059770577624290592": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059697862565536691": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059917780845946766": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2056072763509564144": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/1941257398313551370": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059657075496575156": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2042898344431900373": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059572234985763779": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059725879068942431": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.zhihu.com/question/2059590552236941759": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226872": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226835": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226809": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226762": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226812": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226703": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226830": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226775": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226782": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.v2ex.com/t/1226716": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660712622825144374": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660529058778513460": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660513725813014578": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660708287620808739": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660780385584316454": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660697431320690723": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://juejin.cn/post/7660359043139731496": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://nebusec.ai/research/ionstack-part-2/": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://countbinface.com": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://shellzine.net/cyberpunk-comics/": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://floooh.github.io/tiny8bit-preview/index.html": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://news.ycombinator.com/item?id=48886741": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.susanrigetti.com/physics": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://vilkeliskis.com/b/2026/0711.html": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://news.ycombinator.com/item?id=48884984": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
+ },
+ "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
+  "first": "2026-07-13",
+  "last": "2026-07-13"
  }
 }
