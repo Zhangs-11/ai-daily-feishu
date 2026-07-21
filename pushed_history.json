@@ -1,227 +1,11 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-07-20"
- },
- "https://juejin.cn/post/7660229701227675663": {
-  "first": "2026-07-12",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660030380293357609": {
-  "first": "2026-07-12",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660697495832035362": {
-  "first": "2026-07-12",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%94%B3%E8%AF%B7%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%A9%BF%E5%AE%A2%E5%9C%BA%E9%98%9F%E6%9C%8D": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%A8%81%E6%98%8E%E5%A4%A9%E5%85%A5%E6%B5%B7": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E8%BF%99%E6%B3%A2%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%A4%AA%E6%8F%90%E6%B0%94": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E8%A7%89%E5%BE%97%E6%97%85%E6%B8%B8%E7%B4%AF%E7%9A%84%E5%8E%9F%E5%9B%A0": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AE%A9%E5%AF%B9%E6%96%B9%E6%8E%A5%E5%88%B0": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E6%BC%94%E9%82%93%E4%B8%BA%E8%80%81%E5%A9%86": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%ADR1SE": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E6%9A%B4%E9%9B%A86%E5%B0%8F%E6%97%B6%E9%81%93%E8%B7%AF%E7%A7%AF%E6%B0%B4%E8%B6%852%E7%B1%B3": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E5%8D%88%E4%BC%91%E6%96%B9%E5%BC%8F": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A7%A6%E5%8F%8A%E8%B7%8C%E5%81%9C": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E5%B0%8F%E5%86%89%E5%BE%90%E4%BD%B3%E5%AE%81%E7%A6%BB%E5%A9%9A": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E6%8B%8D%E9%97%A8%E9%81%AD%E6%8D%85%E6%9D%80%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%AD%A9%E5%AD%90%E9%94%99%E4%B8%8D%E8%87%B3%E6%AD%BB": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E5%8F%88%E5%BC%80%E5%A7%8B%E5%A4%A7%E7%82%B9%E5%90%8D": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B9%90%E5%8D%8EJYP%E9%83%BD%E7%BB%99%E8%8B%8F%E6%96%B0%E7%9A%93%E5%8F%91%E8%BF%87%E9%82%80%E8%AF%B7": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E5%91%98%E9%9B%86%E4%BD%93%E9%AB%98%E5%96%8A%E5%8F%8D%E8%8B%B1%E5%8F%A3%E5%8F%B7": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059770577624290592": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059697862565536691": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059917780845946766": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2056072763509564144": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/1941257398313551370": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059657075496575156": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2042898344431900373": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059572234985763779": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059725879068942431": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.zhihu.com/question/2059590552236941759": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226872": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226835": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226809": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226762": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226812": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226703": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226830": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226775": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226782": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.v2ex.com/t/1226716": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660712622825144374": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660529058778513460": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660513725813014578": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660708287620808739": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
+  "last": "2026-07-21"
  },
  "https://juejin.cn/post/7660780385584316454": {
   "first": "2026-07-13",
   "last": "2026-07-14"
- },
- "https://juejin.cn/post/7660697431320690723": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://juejin.cn/post/7660359043139731496": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://nebusec.ai/research/ionstack-part-2/": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://countbinface.com": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://shellzine.net/cyberpunk-comics/": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://floooh.github.io/tiny8bit-preview/index.html": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://news.ycombinator.com/item?id=48886741": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.susanrigetti.com/physics": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://vilkeliskis.com/b/2026/0711.html": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://www.cbc.ca/news/canada/quest-shipwreck-expedition-images-9.7262229": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://news.ycombinator.com/item?id=48884984": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
- },
- "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": {
-  "first": "2026-07-13",
-  "last": "2026-07-13"
  },
  "https://s.weibo.com/weibo?q=%E8%B6%85250%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%90%E5%87%BA%E4%B8%96%E7%95%8C%E6%9D%AF": {
   "first": "2026-07-14",
@@ -1545,7 +1329,7 @@
  },
  "https://juejin.cn/post/7663685196478611506": {
   "first": "2026-07-20",
-  "last": "2026-07-20"
+  "last": "2026-07-21"
  },
  "https://juejin.cn/post/7663028450609119242": {
   "first": "2026-07-20",
@@ -1557,11 +1341,11 @@
  },
  "https://juejin.cn/post/7664063148857442347": {
   "first": "2026-07-20",
-  "last": "2026-07-20"
+  "last": "2026-07-21"
  },
  "https://juejin.cn/post/7663687263675416595": {
   "first": "2026-07-20",
-  "last": "2026-07-20"
+  "last": "2026-07-21"
  },
  "https://juejin.cn/post/7663295933393682467": {
   "first": "2026-07-20",
@@ -1610,5 +1394,205 @@
  "https://www.plough.com/articles/who-is-americas-homer": {
   "first": "2026-07-20",
   "last": "2026-07-20"
+ },
+ "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93%20%E8%87%B4%E7%99%8C%E7%89%A9": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83684%E5%88%86%E8%8A%B13000%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%BF%993%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%9F%E6%8F%90%E6%B0%94": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E4%BA%86%E5%8F%8C%E9%9D%9E%E9%99%A2%E6%A0%A1%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83684%E5%88%86%E8%BF%9B%E5%8F%8C%E9%9D%9E%E5%A5%B3%E7%94%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E4%B8%8A%E5%A4%AE%E8%B4%A2": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E5%BC%80%E6%9C%BA": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E4%B8%83%E4%B8%AA%E9%98%B3%E5%8F%B0%E7%9A%84%E5%A5%87%E8%91%A9%E6%88%BF%E5%AD%90": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%9C%BA%E9%95%BF%E5%90%91%E4%B9%98%E5%AE%A2%E5%B9%BF%E6%92%AD%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E6%BC%AB%E5%A8%81%E6%8E%8F%E5%87%BA%E4%BC%A0%E4%B8%96%E5%AE%B6%E5%BA%95%E4%BA%86": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E8%BF%9BICU%E5%90%8E%E4%B8%80%E5%BF%83%E8%A6%81%E7%AD%89%E8%B0%A2%E9%9C%86%E9%94%8B%E5%9B%9E%E9%A6%99%E6%B8%AF": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%9C%E8%A7%89%E5%BE%97%E6%88%BF%E5%AD%90%E5%8D%96%E4%BA%8F%E4%BA%86%E6%8A%A5%E5%A4%8D%E4%B9%B0%E5%AE%B6": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E8%BE%9B%E8%8A%B7%E8%95%BE%E9%AB%98%E5%8F%B6%E5%80%AA%E5%A6%AE%E5%90%88%E7%85%A7": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0%E4%B8%AD%E5%BC%8F%E7%A2%B3%E6%B0%B4%E7%AB%8B%E5%A4%A7%E5%8A%9F": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://s.weibo.com/weibo?q=%E7%BB%B4%E5%B0%BC%E4%BF%AE%E6%96%AF%E6%95%B4%E5%AE%B9%E4%BA%86": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2061925103441650722": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2055058384097955896": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2001825569575306638": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062608470700975381": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062575282591209175": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062108518619124379": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062352638771818951": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062642099518795923": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2062663352988300439": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.zhihu.com/question/2061953789863654753": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228699": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228576": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228629": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228609": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228568": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228666": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228593": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.v2ex.com/t/1228722": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7664156897922351110": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7663822459978137646": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7664407325864558628": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7663762583839064090": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7664139332774690850": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7663854184966389806": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://juejin.cn/post/7663708874660364324": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://stratechery.com/2026/whos-afraid-of-chinese-models/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://forum.jellyfin.org/t-project-leadership-changes": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.kimi.com/products/kimi-work": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://jelly-ui.com/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://blaizzy.github.io/nativ/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://numerlab.org/2025/07/20/bashumerate-enumerator/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
+ },
+ "https://vincentwoo.com/3d/grace_cathedral/": {
+  "first": "2026-07-21",
+  "last": "2026-07-21"
  }
 }
