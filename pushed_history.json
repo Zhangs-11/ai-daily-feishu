@@ -1,23 +1,11 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-07-29"
+  "last": "2026-07-30"
  },
  "https://juejin.cn/post/7664063148857442347": {
   "first": "2026-07-20",
   "last": "2026-07-24"
- },
- "https://juejin.cn/post/7663687263675416595": {
-  "first": "2026-07-20",
-  "last": "2026-07-22"
- },
- "https://juejin.cn/post/7664156897922351110": {
-  "first": "2026-07-21",
-  "last": "2026-07-22"
- },
- "https://juejin.cn/post/7663822459978137646": {
-  "first": "2026-07-21",
-  "last": "2026-07-22"
  },
  "https://juejin.cn/post/7664407325864558628": {
   "first": "2026-07-21",
@@ -27,201 +15,9 @@
   "first": "2026-07-21",
   "last": "2026-07-23"
  },
- "https://juejin.cn/post/7664139332774690850": {
-  "first": "2026-07-21",
-  "last": "2026-07-22"
- },
- "https://juejin.cn/post/7663854184966389806": {
-  "first": "2026-07-21",
-  "last": "2026-07-22"
- },
- "https://juejin.cn/post/7663708874660364324": {
-  "first": "2026-07-21",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%9C%A8%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%85%AC%E5%BC%80%E5%A4%AB%E5%A6%BB%E7%9F%9B%E7%9B%BE%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%B6%E6%9A%B4": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%E8%A7%A3%E7%A0%81%E5%88%9B%E6%96%B0%E6%B5%99%E6%B1%9F": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E5%8C%85%E7%9F%A5%E4%BA%86%E7%8C%B4%E9%A5%BA%E5%AD%90%E4%B8%80%E8%BD%AC%E7%9C%BC%E9%A6%85%E8%B7%91%E4%BA%86": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%8C%96%E5%A6%86%E5%90%8E%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BA%86": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E8%80%90%E5%85%8B%E6%8A%9B%E5%BC%83%E6%BB%94%E6%90%8F%E5%BD%B1%E5%93%8D%E5%A4%9A%E5%A4%A7": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E9%9D%92%E9%A3%8E%E5%90%B9%E5%8F%88%E7%94%9F%E5%AE%9A%E5%A6%86": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E8%80%90%E5%85%8B%E4%B8%8E%E6%BB%94%E6%90%8F%E7%BA%BF%E4%B8%8A%E5%90%88%E4%BD%9C%E5%B0%86%E7%BB%88%E6%AD%A2": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%AD%8C%E6%89%8B": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E6%BE%8E%E7%A8%8B%E6%AF%8F%E4%B8%89%E5%B9%B4%E6%88%963%E4%B8%87km%E6%89%8D%E9%9C%80%E4%BF%9D%E5%85%BB": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E5%87%AF%E8%8E%89%E9%9C%8D%E7%89%B9%E5%B0%94%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BC%A0%E9%9B%85%E7%90%AA%E5%92%8C%E4%B8%87%E4%BF%8A%E4%B8%B0%E5%90%8C%E8%A1%8C%E7%85%A7%E7%89%87": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E8%AF%B4%E6%89%93%E5%B0%B1%E6%89%93": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E8%A1%A8%E5%BF%97%E5%8B%8B%E5%87%BA%E8%BD%A6%E7%A5%B8": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://s.weibo.com/weibo?q=%E6%96%B0%E9%A2%86%E5%86%9B%E7%8E%8B%E6%A5%9A%E9%92%A6": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062587249968129781": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062885893309047731": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062658013031130538": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2056289647056237543": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062943431668789795": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062891074763350234": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062984337709086479": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062107785865717076": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2058615203118462714": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.zhihu.com/question/2062507625783226699": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228804": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228864": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228958": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228796": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228883": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228801": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228811": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228783": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228794": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.v2ex.com/t/1228840": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
  "https://juejin.cn/post/7664487899659042831": {
   "first": "2026-07-22",
   "last": "2026-07-24"
- },
- "https://openai.com/index/hugging-face-model-evaluation-security-incident/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://fireworks.ai/blog/kimik3-fable": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://freeink.org/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://ads.openai.com/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "http://hintjens.com/blog:99": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
- },
- "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63": {
-  "first": "2026-07-22",
-  "last": "2026-07-22"
  },
  "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E7%A7%83%E9%A1%B6%E4%BA%86": {
   "first": "2026-07-23",
@@ -1541,19 +1337,19 @@
  },
  "https://juejin.cn/post/7667096004731846682": {
   "first": "2026-07-29",
-  "last": "2026-07-29"
+  "last": "2026-07-30"
  },
  "https://juejin.cn/post/7667127162155581449": {
   "first": "2026-07-29",
-  "last": "2026-07-29"
+  "last": "2026-07-30"
  },
  "https://juejin.cn/post/7666771393113767982": {
   "first": "2026-07-29",
-  "last": "2026-07-29"
+  "last": "2026-07-30"
  },
  "https://juejin.cn/post/7666793612337152041": {
   "first": "2026-07-29",
-  "last": "2026-07-29"
+  "last": "2026-07-30"
  },
  "https://github.com/openai/codex-security": {
   "first": "2026-07-29",
@@ -1594,5 +1390,205 @@
  "https://reframe.camera/": {
   "first": "2026-07-29",
   "last": "2026-07-29"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BB%B7%E9%80%80%E7%A5%A8%E8%B4%B9%E5%85%A8%E9%A2%9D%E9%80%80%E4%BA%86": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%93%BE%E4%B8%89%E5%8F%B701%E6%98%9F%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%91%A8%E7%BF%8A%E7%84%B6%E9%80%8F%E6%98%8E%E7%88%B1%E4%BA%BAMV%E4%BA%B2%E4%BA%86": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=30%E5%B2%81%E5%B0%8F%E4%BC%99%E8%B4%9F%E5%80%BA170%E4%B8%87%E5%8D%96%E9%A5%BA%E5%AD%90%E7%BF%BB%E8%BA%AB": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%20%E8%8A%B1%E5%B0%91": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=17%E5%B2%81%E5%B0%8F%E5%B0%86%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%E8%92%AF%E6%9B%BC": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=1.5%E4%B8%87%E5%85%83%E6%9C%BA%E7%A5%A8%E4%BB%85%E9%80%80432%E5%85%83%E5%90%8E%E7%BB%AD": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F3%E4%BA%BA%E6%88%96%E9%9D%A2%E4%B8%B4%E9%95%BF%E6%9C%9F%E7%A6%81%E8%B5%9B": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E8%83%8C%E9%93%BE": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%E9%81%93%E6%AD%89": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E5%AE%B6%E5%BA%AD%E5%85%B1%E6%B5%8E%E6%B2%A6%E4%B8%BA%E5%A5%97%E7%8E%B0%E5%B7%A5%E5%85%B7": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E7%BD%97%E6%8A%80%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%90%A5%E6%94%B6%E5%96%9C%E4%BA%BA%20%E6%9B%BE%E4%BE%AE%E8%BE%B1%E9%A1%BE%E5%AE%A2%E6%98%AF%E7%8B%97": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E5%AE%A3%E4%BC%A0%E9%99%88%E7%91%B6%E6%96%B0%E5%89%A7": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065707692950123437": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2061092161337177252": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065804781247887148": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065799308067041337": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065738421474271320": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065588413684831719": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065583157664018461": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2064993421949755491": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2066063922856027842": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.zhihu.com/question/2065044616043131031": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230740": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230880": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230828": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230751": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230673": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230794": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230668": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230737": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.v2ex.com/t/1230719": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7667495083470471177": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7667757814613934143": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7666490925375815718": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7667503991685857290": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7667756207138848819": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://juejin.cn/post/7667140974343880714": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://christianselig.com/2026/07/vision-pro-house/": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://github.com/drumih/turbo-fieldfare": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.superlogical.com/": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://llm2human.pages.dev/": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://frantic.im/mirage/": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://zachholman.com/posts/cold-email": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
+ },
+ "https://huggingface.co/blog/agent-intrusion-technical-timeline": {
+  "first": "2026-07-30",
+  "last": "2026-07-30"
  }
 }
