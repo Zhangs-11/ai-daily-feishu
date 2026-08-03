@@ -1,231 +1,27 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-08-02"
- },
- "https://juejin.cn/post/7664905579035410441": {
-  "first": "2026-07-23",
-  "last": "2026-07-26"
- },
- "https://juejin.cn/post/7664904418249900084": {
-  "first": "2026-07-23",
-  "last": "2026-07-26"
+  "last": "2026-08-03"
  },
  "https://s.weibo.com/weibo?q=A%E8%82%A1": {
   "first": "2026-07-24",
   "last": "2026-07-28"
  },
- "https://juejin.cn/post/7665035990350594054": {
-  "first": "2026-07-24",
-  "last": "2026-07-26"
- },
  "https://juejin.cn/post/7665253291312316479": {
   "first": "2026-07-24",
   "last": "2026-07-27"
- },
- "https://juejin.cn/post/7664880484322099263": {
-  "first": "2026-07-24",
-  "last": "2026-07-26"
  },
  "https://juejin.cn/post/7665614902707617827": {
   "first": "2026-07-25",
   "last": "2026-07-27"
  },
- "https://juejin.cn/post/7665417513739780148": {
-  "first": "2026-07-25",
-  "last": "2026-07-26"
- },
- "https://juejin.cn/post/7665539523288563712": {
-  "first": "2026-07-25",
-  "last": "2026-07-26"
- },
  "https://juejin.cn/post/7665313565674717230": {
   "first": "2026-07-25",
   "last": "2026-07-27"
  },
- "https://s.weibo.com/weibo?q=%E5%8D%AB%E5%81%A5%E5%A7%94%E4%BB%8B%E5%85%A524%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=16%E5%B2%81%E5%A5%B3%E7%94%9F%E6%9C%8D%E5%88%91%E6%9C%9F%E5%8F%91%E7%8E%B0%E6%BC%8F%E7%BD%AA%E8%A2%AB%E5%88%A412%E5%B9%B4": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=APEC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AA%E6%9D%A5%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E6%96%B0%E8%B7%AF%E5%BE%84": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85%E5%BC%A0%E9%9B%85%E7%90%AA%E8%BF%99%E4%B8%AA%E5%8F%91%E5%9E%8B": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E5%85%AB%E4%BB%99%E4%BD%95%E4%BB%99%E5%A7%91": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E8%8A%B1%E4%B8%80%E4%B8%87%E5%A4%9A%E4%BA%A7%E6%A3%80%E4%B8%80%E8%B7%AF%E7%BB%BF%E7%81%AF%E7%94%9F%E4%B8%8B%E6%9D%A5%E7%95%B8%E5%BD%A2": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B8%B8%E9%A9%BB%E5%A5%BD%E5%85%AD": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E5%AA%92%E4%BD%93%E6%9B%9D%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%9B%B4%E8%A1%A3%E5%AE%A4%E5%86%85%E5%B9%95": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%9C%9F%E7%9A%84%E6%8A%8A%E5%A4%A7%E5%84%BF%E5%AD%90%E6%95%99%E5%BE%97%E5%BE%88%E5%A5%BD": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%E7%9A%84%E4%BA%8B%E6%83%85": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E6%98%AF%E5%BE%88%E5%A4%9A%E5%AD%BD%E7%BC%98%E7%9A%84%E5%BC%80%E5%A7%8B": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E6%89%BE%E5%88%B0%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%8A%98%E4%B8%AA%E9%B8%A1%E5%8D%96%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://s.weibo.com/weibo?q=%E9%9F%A9%E8%B7%AF%E6%84%9F%E8%B0%A2%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2062972309652992711": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2057049665552623029": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2063564177688597653": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2064255303806465925": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2014006516139714030": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2064146151499097712": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2064483627178485387": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2064287361543017092": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2064405742971352764": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.zhihu.com/question/2062144078456648299": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229754": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229751": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229778": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229759": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229726": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229785": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229825": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229765": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229772": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.v2ex.com/t/1229777": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
  "https://juejin.cn/post/7665981990437797914": {
   "first": "2026-07-26",
   "last": "2026-07-29"
- },
- "https://www.jetzero.aero": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://golfcoursebrowser.com/": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://blog.ktz.me/esp32-plane-radar/": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://anatolyzenkov.com/stolen-buttons": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://huggingface.co/owensong/Inflect-Micro-v2": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
- },
- "https://blog.cloudflare.com/content-independence-day-ai-options/": {
-  "first": "2026-07-26",
-  "last": "2026-07-26"
  },
  "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%8E%B0%E4%BA%BA%E4%BD%93%E6%AE%8B%E9%AA%B8": {
   "first": "2026-07-27",
@@ -1357,7 +1153,7 @@
  },
  "https://juejin.cn/post/7667863898348126271": {
   "first": "2026-08-01",
-  "last": "2026-08-02"
+  "last": "2026-08-03"
  },
  "https://juejin.cn/post/7667552613815959598": {
   "first": "2026-08-01",
@@ -1541,11 +1337,11 @@
  },
  "https://juejin.cn/post/7668191994554073142": {
   "first": "2026-08-02",
-  "last": "2026-08-02"
+  "last": "2026-08-03"
  },
  "https://juejin.cn/post/7668309258707386378": {
   "first": "2026-08-02",
-  "last": "2026-08-02"
+  "last": "2026-08-03"
  },
  "https://juejin.cn/post/7668204673984135178": {
   "first": "2026-08-02",
@@ -1561,11 +1357,11 @@
  },
  "https://juejin.cn/post/7668634785267695625": {
   "first": "2026-08-02",
-  "last": "2026-08-02"
+  "last": "2026-08-03"
  },
  "https://juejin.cn/post/7668540866239529010": {
   "first": "2026-08-02",
-  "last": "2026-08-02"
+  "last": "2026-08-03"
  },
  "https://juejin.cn/post/7667736324415701027": {
   "first": "2026-08-02",
@@ -1610,5 +1406,201 @@
  "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions": {
   "first": "2026-08-02",
   "last": "2026-08-02"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%20%E9%87%8D%E5%A9%9A": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E7%89%9B%E8%9B%99%20%E6%8A%97%E7%94%9F%E7%B4%A0": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD%E8%B0%83%E7%A0%94%E8%A1%8C": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%84%BF%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%20%E8%AF%B7%E5%A4%A7%E5%AE%B6%E5%96%9D%E6%B0%B4": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%A2%AB%E5%8F%AB%E6%B3%A1%E8%8F%9C%E5%A6%B9%E7%9A%84%E9%9F%A9%E5%A5%B3": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%A4%8F%E4%BB%A5%E6%98%BCPV": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%B4%A9%E4%BA%86": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%B1%85%E7%84%B6%E8%BF%98%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%AF%E5%8E%8B%E7%9A%84%E5%89%A7": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E6%8D%A2%E5%A4%B4%E5%83%8F%E5%BC%95CP%E7%B2%89%E8%A7%A3%E8%AF%BB": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%8C%89%E4%BA%BA%E6%94%B6%E8%B4%B9%E6%94%B9%E4%B8%BA%E6%8C%89%E8%BD%A6%E6%94%B6%E8%B4%B9": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E9%AD%8F%E6%99%A8%E8%AE%A9%E5%85%B3%E6%99%93%E5%BD%A4%E5%AE%9E%E7%8E%B0%E9%AB%98%E8%B7%9F%E9%9E%8B%E8%87%AA%E7%94%B1": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%BB%84%E8%B1%86%20%E5%B0%B1%E8%BF%99%E4%B9%88%E8%A2%AB%E8%94%A1%E5%BE%90%E5%9D%A4%E8%B8%A9%E5%88%B0%E8%84%9A%E4%B8%8B": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2067235011804320517": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2063895390546563948": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066988587279718231": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066626493304628425": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066121773574369559": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066562892879738224": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2067159136182219967": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066921241156523798": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2066958063932912243": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.zhihu.com/question/2064355224899395856": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231626": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231595": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231634": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231619": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231528": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231596": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231604": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231526": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.v2ex.com/t/1231540": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://juejin.cn/post/7668305038255521838": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://juejin.cn/post/7667895598095826970": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://juejin.cn/post/7668535450420019236": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://juejin.cn/post/7668341210563870720": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://juejin.cn/post/7668490153107783732": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://qwen.ai/blog?id=qwen3.8": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://sf.isopolis.city/": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://github.com/johnsonjh/cpm386": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://twitter.com/karpathy/status/2083749667410727319": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://ssh.place": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://localai.io/blog/why-we-write-our-own-engines/": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://mattbeton.com/blog/bitnet-6502.html": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://handwritten.blog/": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
+ },
+ "https://github.com/wie-project/kakehashi": {
+  "first": "2026-08-03",
+  "last": "2026-08-03"
  }
 }
