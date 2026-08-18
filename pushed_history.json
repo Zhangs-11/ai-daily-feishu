@@ -1,227 +1,19 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7671106436446011443": {
   "first": "2026-08-09",
   "last": "2026-08-11"
  },
- "https://juejin.cn/post/7670383736383832110": {
-  "first": "2026-08-09",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%20%E4%B8%8A%E7%8F%AD": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E9%80%9A%E6%8A%A5%E5%A4%A9%E6%A1%A5%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%83%AD%E8%AF%8D%E8%BF%AD%E4%BB%A3%E8%AF%BB%E6%87%82%E9%B2%9C%E6%B4%BB%E4%B8%AD%E5%9B%BD": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%9C%89%E4%BA%BA%E6%92%B8%E5%8F%B0%E9%A3%8E%E7%BE%8A%E6%AF%9B": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=C%E7%BD%97%E5%A9%9A%E7%A4%BC%E9%97%B9%E4%B9%8C%E9%BE%99": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE400%E4%BA%BF%E7%A5%A8%E6%88%BF%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80%E4%BA%BA": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%E6%84%9F%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E4%BA%86": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E6%A2%85%E5%A9%B712%E5%B2%81%E5%A5%B3%E5%84%BF%E7%99%BE%E8%8A%B1%E5%A5%96%E5%8F%91%E8%A8%80%E8%90%BD%E8%90%BD%E5%A4%A7%E6%96%B9": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E4%B8%8D%E6%83%B3%E5%81%9A%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%86%B0%E6%A1%B6%E6%8C%91%E6%88%98": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=iPhone18Pro%E5%8F%91%E5%B8%83%E4%BC%9A%E6%97%B6%E9%97%B4": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%94%B7%E4%BA%BA%E5%92%8C%E7%94%B7%E5%AD%A9%E7%9A%84%E5%8C%BA%E5%88%AB": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%BC%94%E5%91%98%E6%9C%B1%E9%94%90%E8%87%AA%E6%9B%9D%E7%A0%B4%E4%BA%A7%E5%A4%B1%E4%B8%9A": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E5%A9%B4%E5%84%BF%E5%BF%AB%E7%AA%92%E6%81%AF%E6%97%B6%E8%A2%AB%E5%B0%8F%E7%8C%AB%E6%95%91%E4%B8%8B%E5%AE%9D%E5%A6%88%E5%8F%91%E5%A3%B0": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E9%9F%B3%E4%B9%90%E8%8A%82%E5%BB%B6%E6%97%B6%E7%96%91%E4%BC%BC%E8%A2%AB%E5%82%AC%E4%B8%8B%E5%8F%B0": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://s.weibo.com/weibo?q=%E9%87%91%E7%8F%89%E5%A5%8E%E5%85%AC%E7%9B%8A%E5%85%B5": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2068754726955345626": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2069827123896907258": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2063944037544023265": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2069822063146004694": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2069434187044451136": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2069804132467315387": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2054325405172102120": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2069687163239625579": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2068997018450485887": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.zhihu.com/question/2070054600602642235": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233017": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233118": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233042": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233123": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233041": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233114": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233119": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233022": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233018": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.v2ex.com/t/1233124": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://juejin.cn/post/7671107889683087366": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
  "https://juejin.cn/post/7671078538116546575": {
   "first": "2026-08-10",
   "last": "2026-08-11"
  },
- "https://juejin.cn/post/7671152660225622026": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://juejin.cn/post/7671106436445257779": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://juejin.cn/post/7670974075053097012": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://juejin.cn/post/7670703945447505983": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
  "https://juejin.cn/post/7670593377075773491": {
   "first": "2026-08-10",
   "last": "2026-08-11"
- },
- "https://juejin.cn/post/7670783499005362222": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://blog.teknogeek.io/posts/what-happened-to-hackerone/": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://gitlab.com/Kazade/picophysics": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://news.ycombinator.com/item?id=49233423": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://publicdomainreview.org/collection/marnameh/": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
- },
- "https://tuxedono2.com": {
-  "first": "2026-08-10",
-  "last": "2026-08-10"
  },
  "https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%8E%BB%E4%B8%96": {
   "first": "2026-08-11",
@@ -1349,15 +1141,15 @@
  },
  "https://juejin.cn/post/7673810995882672128": {
   "first": "2026-08-16",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7673855455463800847": {
   "first": "2026-08-16",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7673897632197001268": {
   "first": "2026-08-16",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/": {
   "first": "2026-08-16",
@@ -1541,23 +1333,23 @@
  },
  "https://juejin.cn/post/7673897632196919348": {
   "first": "2026-08-17",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7673875524200808494": {
   "first": "2026-08-17",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7674372498314936370": {
   "first": "2026-08-17",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7673872542772838451": {
   "first": "2026-08-17",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://juejin.cn/post/7673413097325559843": {
   "first": "2026-08-17",
-  "last": "2026-08-17"
+  "last": "2026-08-18"
  },
  "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf": {
   "first": "2026-08-17",
@@ -1598,5 +1390,193 @@
  "https://reticulum.network/": {
   "first": "2026-08-17",
   "last": "2026-08-17"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E6%82%BC%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=BBA%E5%A4%A7%E9%99%8D%E4%BB%B7%20%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%B7%8C%E8%87%B328%E4%B8%87": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E5%89%8D7%E4%B8%AA%E6%9C%88%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E6%80%BB%E4%BD%93%E5%B9%B3%E7%A8%B3%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E6%94%B6%E5%85%A5%E5%90%8E%E7%88%B1%E5%BC%A5%E8%A1%A5%E8%BF%87%E5%8E%BB%E7%9A%84%E8%87%AA%E5%B7%B1": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E7%85%A7%E7%83%A7%E9%B3%97%E9%B1%BC%20%E6%AD%BB%E9%B3%97%E9%B1%BC": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%95%99%E6%8E%88%E5%8F%91%E4%B8%AD%E5%9B%BD%E8%A1%97%E6%99%AF%E7%A7%B0%E8%A2%AB%E5%8D%B0%E5%AA%92%E9%AA%97%E6%83%A8%E4%BA%86": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%B5%B7%E5%B3%B0%E6%8E%A5%E5%8F%97%E8%B0%83%E6%9F%A5": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E9%95%BF%E5%89%A7%E8%AF%95%E8%A1%8C%E8%BE%B9%E6%94%B9%E8%BE%B9%E6%92%AD%E6%9C%BA%E5%88%B6": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E4%BA%95%E8%BF%AA%E9%9F%B3%E4%B9%90%E8%8A%82": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E6%B6%89%E4%BA%8B%E9%AB%98%E7%AE%A1%E6%9B%BE%E6%98%AF%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83%E6%B8%85%E5%8D%8E%E6%AF%95%E4%B8%9A": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B4%A9%E4%BA%86%E4%B8%9C%E5%8C%97%E5%AF%8C%E4%BA%8C%E4%BB%A342%E4%B8%AA%E4%BA%BF": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%A6%99%E6%B8%AF%E8%A2%AB%E5%81%B6%E9%81%87": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A3%E5%87%A0%E4%B9%8E%E7%9C%8B%E4%B8%8D%E8%A7%81%E5%94%87%E8%85%AD%E8%A3%82%E4%BF%AE%E5%A4%8D%E7%97%95%E8%BF%B9": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2071739761476293183": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2070200885368419979": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2072637486740632508": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2065004542933067231": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/379961070": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2071509878875615796": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2072808195915872052": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2072650616367853898": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2072803747886114063": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.zhihu.com/question/2072103596481683649": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234938": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234971": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234887": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234960": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234981": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1235142": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234957": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234891": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234916": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.v2ex.com/t/1234926": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://juejin.cn/post/7674686524115353650": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://juejin.cn/post/7674383173651824682": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://timmarinin.net/2026/bluesky-screenshots/": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://fabiensanglard.net/quake_shareware_cd/index.html": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://openrouter.ai/openai/gpt-5.6-sol": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://duckdb.org/2026/08/17/duckdb-20-highlights": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://arxiv.org/abs/2608.13759": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://www.rickmanelius.com/p/aidr-ai-didnt-read": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
+ },
+ "https://en.wikipedia.org/wiki/Olo_(color)": {
+  "first": "2026-08-18",
+  "last": "2026-08-18"
  }
 }
