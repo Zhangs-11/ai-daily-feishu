@@ -1,171 +1,19 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-08-28"
- },
- "https://juejin.cn/post/7674383173651824682": {
-  "first": "2026-08-18",
-  "last": "2026-08-21"
- },
- "https://juejin.cn/post/7674686524114944050": {
-  "first": "2026-08-19",
-  "last": "2026-08-21"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7674910507414159403": {
   "first": "2026-08-20",
   "last": "2026-08-22"
  },
- "https://juejin.cn/post/7674907190973775882": {
-  "first": "2026-08-20",
-  "last": "2026-08-21"
- },
  "https://juejin.cn/post/7675272903249625107": {
   "first": "2026-08-20",
   "last": "2026-08-23"
  },
- "https://juejin.cn/post/7674783303284326450": {
-  "first": "2026-08-20",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB30%E5%85%AC%E6%96%A4%E5%A4%A7%E7%8B%97%E6%92%95%E5%92%AC%E6%AD%BB%E4%BA%A1": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%AF%B4%E9%80%81%E5%88%B0%E7%BB%9F%E4%B8%80%E4%B8%BA%E6%AD%A2": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8A%A0%E9%80%9F%E9%A9%B6%E5%85%A5AI%E8%B5%8B%E8%83%BD%E6%96%B0%E9%98%B6%E6%AE%B5": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%8D%A13%E6%A0%B9%E9%87%91%E6%9D%A1%E4%BB%A5%E4%B8%BA%E5%81%87%E7%9A%84%E9%9A%8F%E6%89%8B%E6%89%94%E6%8E%89": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=398%E4%B8%80%E6%9D%AF%E7%9A%84%E8%8A%8B%E5%9C%86%E8%91%A1%E8%90%84": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9IP%E6%A0%BC%E5%B1%80%E5%A4%A7%E5%8F%98": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E6%B0%B4%E6%9E%9C%E9%AA%97%E5%B1%80": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E5%BC%80%E6%9C%BA%E8%B7%AF%E9%80%8F": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%B0%94%E5%80%99%E5%BC%82%E5%B8%B8": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E6%9B%BE%E8%BE%89%E5%B0%8F%E6%B2%88%E9%98%B3%E8%BF%99%E6%AE%B5%E8%AF%A1%E5%BC%82%E5%BE%97%E5%83%8FAI%E7%94%9F%E6%88%90": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E5%AD%99%E9%AA%81%E9%AA%81%E8%AF%B4%E7%94%9F%E4%BA%8C%E8%83%8E%E6%98%AF%E5%AF%B9%E8%80%81%E5%85%AC%E5%92%8C%E5%A9%86%E5%AE%B6%E7%9A%84%E8%82%AF%E5%AE%9A": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E4%B8%8A%E5%B8%82%E7%AD%94%E8%B0%A2%E5%AE%B4%E6%9C%AA%E8%A7%81%E8%8C%85%E5%8F%B0": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BA%A2%E5%8D%96%E6%B7%AB%E7%A7%BD%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%93%E6%97%B6%E9%97%AE%E4%BC%9A%E5%88%A4%E5%88%91%E5%90%97": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%91%E7%94%B7%E6%97%B6%E6%9C%9F%E7%9A%84%E6%84%9F%E8%A7%89%E5%9B%9E%E6%9D%A5%E5%95%A6": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%9F%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E6%88%AA%E8%82%A2": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073199570427953525": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/25058494": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073722027542893779": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/552899415": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2072964563851658129": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073052781208920108": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073887468336542588": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073677774934341205": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2070198890213663148": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.zhihu.com/question/2073078431583921634": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235801": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235878": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235820": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1236025": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235817": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235930": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235839": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.v2ex.com/t/1235883": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
  "https://juejin.cn/post/7675540232994783251": {
   "first": "2026-08-21",
   "last": "2026-08-23"
- },
- "https://juejin.cn/post/7675273747710001206": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
  },
  "https://juejin.cn/post/7675346841392070707": {
   "first": "2026-08-21",
@@ -174,46 +22,6 @@
  "https://juejin.cn/post/7675200141355253823": {
   "first": "2026-08-21",
   "last": "2026-08-22"
- },
- "https://mathstodon.xyz/@maxpool/117128107757895678": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://consumerrights.wiki/w/Main_Page": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://www.experimental-history.com/p/i-like-em-thick": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://chrisburnell.com/html-can-do-that/": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
- },
- "https://jsomers.net/i-should-have-loved-biology/": {
-  "first": "2026-08-21",
-  "last": "2026-08-21"
  },
  "https://www.zhihu.com/question/2074036648128377245": {
   "first": "2026-08-22",
@@ -1013,11 +821,11 @@
  },
  "https://juejin.cn/post/7678166172437004294": {
   "first": "2026-08-27",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7678161312637730862": {
   "first": "2026-08-27",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7677435711277629481": {
   "first": "2026-08-27",
@@ -1141,11 +949,11 @@
  },
  "https://juejin.cn/post/7678747733979201536": {
   "first": "2026-08-28",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7678214547980582952": {
   "first": "2026-08-28",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7677854475684020267": {
   "first": "2026-08-28",
@@ -1157,11 +965,11 @@
  },
  "https://juejin.cn/post/7678531174247874586": {
   "first": "2026-08-28",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://juejin.cn/post/7678237761537916979": {
   "first": "2026-08-28",
-  "last": "2026-08-28"
+  "last": "2026-08-29"
  },
  "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html": {
   "first": "2026-08-28",
@@ -1202,5 +1010,137 @@
  "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/": {
   "first": "2026-08-28",
   "last": "2026-08-28"
+ },
+ "https://www.zhihu.com/question/2074767872866383641": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076400121282147077": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076729617759432953": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2073805227866773343": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076960285475042999": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076313906579096130": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076612664869001143": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076988218390442126": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/52654270": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.zhihu.com/question/2076823659071680517": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237979": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237914": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1238000": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237896": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237911": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237904": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237986": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237966": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.v2ex.com/t/1237999": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://juejin.cn/post/7678618678956163078": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://juejin.cn/post/7678203712679739398": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://juejin.cn/post/7678586341090803748": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://juejin.cn/post/7678529068804554787": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://github.com/Lakr233/vphone-cli": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://github.com/kingroryg/turbokv": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.inventati.org/": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
+ },
+ "https://anil.recoil.org/notes/rumour-is-the-exploit": {
+  "first": "2026-08-29",
+  "last": "2026-08-29"
  }
 }
