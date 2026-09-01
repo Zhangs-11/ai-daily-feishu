@@ -1,87 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-08-31"
- },
- "https://www.zhihu.com/question/2074609906632626474": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074915129171211419": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/582884023": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074622254407749780": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074181028135097353": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074921713666449766": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074611538749551180": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074826051096503369": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/2074978790678033443": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.zhihu.com/question/1939565638059262672": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236583": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236619": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236559": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236534": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236662": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236528": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236529": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236551": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236570": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.v2ex.com/t/1236538": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
+  "last": "2026-09-01"
  },
  "https://juejin.cn/post/7676421042796412968": {
   "first": "2026-08-24",
@@ -91,77 +11,13 @@
   "first": "2026-08-24",
   "last": "2026-08-25"
  },
- "https://juejin.cn/post/7676091857219272742": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
  "https://juejin.cn/post/7676092674902868010": {
   "first": "2026-08-24",
   "last": "2026-08-26"
  },
- "https://juejin.cn/post/7675633667490267179": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://juejin.cn/post/7676369124041654307": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
  "https://juejin.cn/post/7676641074035605550": {
   "first": "2026-08-24",
   "last": "2026-08-25"
- },
- "https://juejin.cn/post/7676277362519113763": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://juejin.cn/post/7675914752422805514": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://juejin.cn/post/7676098169944047643": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://schlarp.com/posts/everything-i-own-owned/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://lalitm.com/post/find-problems-staff-engineer/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://fabiensanglard.net/agent.md/index.html": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://earendil.com/posts/what-is-a-harness/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://how.complexsystems.fail/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://securelist.com/android-head-unit-malware/121106/": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
- },
- "https://github.com/AlpinDale/gpt2.cmake": {
-  "first": "2026-08-24",
-  "last": "2026-08-24"
  },
  "https://www.zhihu.com/question/2075346177952674642": {
   "first": "2026-08-25",
@@ -929,7 +785,7 @@
  },
  "https://juejin.cn/post/7678975240300773428": {
   "first": "2026-08-30",
-  "last": "2026-08-31"
+  "last": "2026-09-01"
  },
  "https://juejin.cn/post/7678703379591708724": {
   "first": "2026-08-30",
@@ -1069,7 +925,7 @@
  },
  "https://juejin.cn/post/7679247792172433423": {
   "first": "2026-08-31",
-  "last": "2026-08-31"
+  "last": "2026-09-01"
  },
  "https://juejin.cn/post/7679000152963399689": {
   "first": "2026-08-31",
@@ -1077,7 +933,7 @@
  },
  "https://juejin.cn/post/7679623224678613034": {
   "first": "2026-08-31",
-  "last": "2026-08-31"
+  "last": "2026-09-01"
  },
  "https://juejin.cn/post/7678646261259092004": {
   "first": "2026-08-31",
@@ -1089,7 +945,7 @@
  },
  "https://juejin.cn/post/7679542577553571894": {
   "first": "2026-08-31",
-  "last": "2026-08-31"
+  "last": "2026-09-01"
  },
  "https://unsung.aresluna.org/i-just-chose-words-carefully/": {
   "first": "2026-08-31",
@@ -1130,5 +986,149 @@
  "https://maurycyz.com/misc/etherfiles/": {
   "first": "2026-08-31",
   "last": "2026-08-31"
+ },
+ "https://www.zhihu.com/question/2077685778461750727": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2077814556945135529": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2077546484770386869": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2077565922349413598": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2078035027267248519": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2074824250477785477": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/1969786526624874684": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2077757241512440088": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2078050476826649392": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.zhihu.com/question/2078053778146551414": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238570": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238554": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238590": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238574": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238540": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238446": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238382": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238451": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238425": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.v2ex.com/t/1238544": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7680079424891617332": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7679402031226110004": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7680014875347255334": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7679985418771218470": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7675992325912887315": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://juejin.cn/post/7680074643861291034": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.gpuworld.org/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://fastpotify.rocks/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://antigravity.google/docs/boost/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://restroomarchive.com": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://playaphone.com/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.youtube.com/watch?v=3YtygAx_C6A": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://datacolada.org/138": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
+ },
+ "https://www.youtube.com/watch?v=OOMx2BHHWtE": {
+  "first": "2026-09-01",
+  "last": "2026-09-01"
  }
 }
