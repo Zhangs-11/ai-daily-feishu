@@ -1,83 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-03"
- },
- "https://juejin.cn/post/7677562804154531890": {
-  "first": "2026-08-26",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2075969425702741132": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2076281057649718231": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2074419884818223587": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2076228689730037145": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2075925313998143683": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2074908528507086488": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2076245086363283596": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2073735703394006231": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2075728277612802413": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.zhihu.com/question/2176385811": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237635": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237509": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237605": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237511": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237512": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237527": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.v2ex.com/t/1237597": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://juejin.cn/post/7677883485022388267": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
+  "last": "2026-09-04"
  },
  "https://juejin.cn/post/7677842844808052776": {
   "first": "2026-08-27",
@@ -87,18 +11,6 @@
   "first": "2026-08-27",
   "last": "2026-08-28"
  },
- "https://juejin.cn/post/7677502358059073588": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://juejin.cn/post/7677489259041144866": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://juejin.cn/post/7677762452274085914": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
  "https://juejin.cn/post/7678166172437004294": {
   "first": "2026-08-27",
   "last": "2026-08-29"
@@ -106,50 +18,6 @@
  "https://juejin.cn/post/7678161312637730862": {
   "first": "2026-08-27",
   "last": "2026-08-29"
- },
- "https://juejin.cn/post/7677435711277629481": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.mturk.com/": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://z.ai/blog/glm-5.3-flash": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://asahilinux.org/2026/08/progress-report-7-2/": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://github.com/tailscale/tailcat": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://github.com/SenteLabsAI/OpenExecutive": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
- },
- "https://www.clerky.com/blog/clerky-is-joining-stripe": {
-  "first": "2026-08-27",
-  "last": "2026-08-27"
  },
  "https://www.zhihu.com/question/2076362548765357313": {
   "first": "2026-08-28",
@@ -797,7 +665,7 @@
  },
  "https://juejin.cn/post/7680014875347255334": {
   "first": "2026-09-01",
-  "last": "2026-09-03"
+  "last": "2026-09-04"
  },
  "https://juejin.cn/post/7679985418771218470": {
   "first": "2026-09-01",
@@ -1061,11 +929,11 @@
  },
  "https://juejin.cn/post/7680375814231605299": {
   "first": "2026-09-03",
-  "last": "2026-09-03"
+  "last": "2026-09-04"
  },
  "https://juejin.cn/post/7680496681512042548": {
   "first": "2026-09-03",
-  "last": "2026-09-03"
+  "last": "2026-09-04"
  },
  "https://juejin.cn/post/7680043958139748406": {
   "first": "2026-09-03",
@@ -1110,5 +978,149 @@
  "https://github.com/PhiloLabs/fable51-worlds": {
   "first": "2026-09-03",
   "last": "2026-09-03"
+ },
+ "https://www.zhihu.com/question/2078880121335952288": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078937398142920652": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078599956731111208": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078891144784471935": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078988213255926481": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078137358277522076": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078144755121092441": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078185898370233904": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078256050948646045": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2010624463411093842": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239372": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239194": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239282": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239341": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239359": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239212": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239275": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239373": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.v2ex.com/t/1239222": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680551559094517802": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680741276414296104": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680065840814260224": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680877878047408154": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680110774044475398": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680357430018949135": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://juejin.cn/post/7680738390950510630": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://openai.com/index/gpt-6-astra/": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://neil.fraser.name/news/2026/09/03/": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://gwern.net/xanadu": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://inference-docs.cerebras.ai/models/overview": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.agentconnect.md/blog/grep-beat-lsp-harness/": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.youtube.com/watch?v=nM86DBOqgPM": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://www.cbc.ca/lite/story/9.7328614": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
+ },
+ "https://computer.rip/2026-06-14-hookswitch-to-grave.html": {
+  "first": "2026-09-04",
+  "last": "2026-09-04"
  }
 }
