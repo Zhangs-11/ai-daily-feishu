@@ -1,15 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-04"
- },
- "https://juejin.cn/post/7677842844808052776": {
-  "first": "2026-08-27",
-  "last": "2026-08-28"
- },
- "https://juejin.cn/post/7677868279283171368": {
-  "first": "2026-08-27",
-  "last": "2026-08-28"
+  "last": "2026-09-05"
  },
  "https://juejin.cn/post/7678166172437004294": {
   "first": "2026-08-27",
@@ -19,82 +11,6 @@
   "first": "2026-08-27",
   "last": "2026-08-29"
  },
- "https://www.zhihu.com/question/2076362548765357313": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2076327599819711179": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2075913079498306003": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2076052849881104673": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2049940232846545179": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2076612668605952164": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2071548641035149706": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2075918294335190205": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/270496733": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.zhihu.com/question/2075363668737499639": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237773": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237829": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237798": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237762": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237866": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237757": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237845": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237719": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.v2ex.com/t/1237786": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
  "https://juejin.cn/post/7678747733979201536": {
   "first": "2026-08-28",
   "last": "2026-08-30"
@@ -103,14 +19,6 @@
   "first": "2026-08-28",
   "last": "2026-08-29"
  },
- "https://juejin.cn/post/7677854475684020267": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://juejin.cn/post/7677899267893461034": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
  "https://juejin.cn/post/7678531174247874586": {
   "first": "2026-08-28",
   "last": "2026-08-30"
@@ -118,46 +26,6 @@
  "https://juejin.cn/post/7678237761537916979": {
   "first": "2026-08-28",
   "last": "2026-08-29"
- },
- "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://infernalcode.com/posts/your-ai-agent-has-root/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://subsmith.app": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://github.com/openai/openai-python/blob/main/httpx2.md": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://calv.info/small-models-have-arrived": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://modal.cx/blog/announcing-flatpak-sta/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://507movements.com/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://github.com/elyosh/OpenTIE/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
- },
- "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/": {
-  "first": "2026-08-28",
-  "last": "2026-08-28"
  },
  "https://www.zhihu.com/question/2074767872866383641": {
   "first": "2026-08-29",
@@ -1057,11 +925,11 @@
  },
  "https://juejin.cn/post/7680551559094517802": {
   "first": "2026-09-04",
-  "last": "2026-09-04"
+  "last": "2026-09-05"
  },
  "https://juejin.cn/post/7680741276414296104": {
   "first": "2026-09-04",
-  "last": "2026-09-04"
+  "last": "2026-09-05"
  },
  "https://juejin.cn/post/7680065840814260224": {
   "first": "2026-09-04",
@@ -1069,7 +937,7 @@
  },
  "https://juejin.cn/post/7680877878047408154": {
   "first": "2026-09-04",
-  "last": "2026-09-04"
+  "last": "2026-09-05"
  },
  "https://juejin.cn/post/7680110774044475398": {
   "first": "2026-09-04",
@@ -1122,5 +990,149 @@
  "https://computer.rip/2026-06-14-hookswitch-to-grave.html": {
   "first": "2026-09-04",
   "last": "2026-09-04"
+ },
+ "https://www.zhihu.com/question/2078660058091729064": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2078869409796286323": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/1998057738819893243": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2079478431868089998": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2078913179468543530": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2078099179461669850": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2077882976411636267": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2078432156339140320": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/2078276275073037981": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.zhihu.com/question/613603103": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239471": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239475": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239479": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239517": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239487": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239621": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239525": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239468": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.v2ex.com/t/1239489": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7680757400489541668": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7681170932347830310": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7680899684959272970": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7681146373547868166": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7680471403955191814": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7680757400489738276": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://juejin.cn/post/7680841873821728810": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://nvd.nist.gov/vuln/detail/cve-2026-85046": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://collusion.wiki/": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.statichost.eu/": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://openrouter.ai/openai/gpt-6-astra": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://eebench.org/blog/can-ai-design-circuit-boards-yet/": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
+ },
+ "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead": {
+  "first": "2026-09-05",
+  "last": "2026-09-05"
  }
 }
