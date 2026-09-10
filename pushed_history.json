@@ -1,19 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-09"
- },
- "https://juejin.cn/post/7679247792172433423": {
-  "first": "2026-08-31",
-  "last": "2026-09-02"
- },
- "https://juejin.cn/post/7679623224678613034": {
-  "first": "2026-08-31",
-  "last": "2026-09-02"
- },
- "https://juejin.cn/post/7679542577553571894": {
-  "first": "2026-08-31",
-  "last": "2026-09-02"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7680014875347255334": {
   "first": "2026-09-01",
@@ -26,82 +14,6 @@
  "https://juejin.cn/post/7680074643861291034": {
   "first": "2026-09-01",
   "last": "2026-09-03"
- },
- "https://www.zhihu.com/question/2077710901293965870": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2078071279840651185": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2077796390630178976": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2077044040214778611": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2077824447755694481": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2077784950183387750": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/371857007": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2078044954333651846": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2078220850705032542": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.zhihu.com/question/2074445279345038376": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238763": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238661": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238642": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238815": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238664": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238837": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238722": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238708": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.v2ex.com/t/1238810": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
  },
  "https://juejin.cn/post/7680143535669198858": {
   "first": "2026-09-02",
@@ -118,46 +30,6 @@
  "https://juejin.cn/post/7680024375572021286": {
   "first": "2026-09-02",
   "last": "2026-09-03"
- },
- "https://www.anthropic.com/claude-fable-and-mythos-5-1": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.lisep.org/tru": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://arxiv.org/abs/2608.29530": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://danluu.com/zitron/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://webfpga.io/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://dbushell.com/2026/09/01/text-editor/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://lws.io/blog/my-local-model-setup/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
- },
- "https://masteranza.github.io/weedout/": {
-  "first": "2026-09-02",
-  "last": "2026-09-02"
  },
  "https://www.zhihu.com/question/2078473156440938419": {
   "first": "2026-09-03",
@@ -789,7 +661,7 @@
  },
  "https://juejin.cn/post/7681931232724860970": {
   "first": "2026-09-07",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7681266980104683526": {
   "first": "2026-09-07",
@@ -929,23 +801,23 @@
  },
  "https://juejin.cn/post/7682262550978936884": {
   "first": "2026-09-08",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7682634449856217115": {
   "first": "2026-09-08",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7682364222383308850": {
   "first": "2026-09-08",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7682406523184709670": {
   "first": "2026-09-08",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7682362046578966580": {
   "first": "2026-09-08",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://juejin.cn/post/7682362046578884660": {
   "first": "2026-09-08",
@@ -1077,7 +949,7 @@
  },
  "https://juejin.cn/post/7682253775991734323": {
   "first": "2026-09-09",
-  "last": "2026-09-09"
+  "last": "2026-09-10"
  },
  "https://ai.meta.com/muse/": {
   "first": "2026-09-09",
@@ -1118,5 +990,137 @@
  "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/": {
   "first": "2026-09-09",
   "last": "2026-09-09"
+ },
+ "https://www.zhihu.com/question/2080543688011289423": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2081046558699513469": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2080768309436458272": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2078550836242800989": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2081042167821354932": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2080606204561306253": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2080257034830739049": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2081325345953637761": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2076745267311638363": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.zhihu.com/question/2080267732650387304": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240689": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240866": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240711": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240703": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240822": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240875": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240720": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240674": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240867": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.v2ex.com/t/1240781": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://juejin.cn/post/7682949323614224390": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://juejin.cn/post/7682698191628632107": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://juejin.cn/post/7681931232724910122": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.apple.com/iphone-duo/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://rivendell.dmitrybrant.com/relativity/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://tailwindcss.com/blog/tailwind-is-joining-shopify": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://geo-tp.github.io/ESP32-Bit-Pirate/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://tautology.town/2026/06/01/card-networks.html": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://spectrum.ieee.org/are-self-driving-cars-safe": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://hugovergnes.github.io/little-lm-3-8b/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://thomasahle.com/fast-polynomials/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
+ },
+ "https://www.nomanssky.com/cosmos-update/": {
+  "first": "2026-09-10",
+  "last": "2026-09-10"
  }
 }
