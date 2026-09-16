@@ -1,95 +1,11 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://juejin.cn/post/7681931232724860970": {
   "first": "2026-09-07",
   "last": "2026-09-11"
- },
- "https://juejin.cn/post/7681204371800948736": {
-  "first": "2026-09-07",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/591935274": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2078865478877799968": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2080341418867007626": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2056428533145138727": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2080545656058467888": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2078132215284753080": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2080215608046760788": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2080397612411086400": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/284797534": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.zhihu.com/question/2079585698311565403": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240249": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240058": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240256": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240105": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240069": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240041": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240245": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240199": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240090": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.v2ex.com/t/1240238": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
  },
  "https://juejin.cn/post/7682394398210932763": {
   "first": "2026-09-08",
@@ -115,53 +31,9 @@
   "first": "2026-09-08",
   "last": "2026-09-11"
  },
- "https://juejin.cn/post/7682362046578884660": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
  "https://juejin.cn/post/7682013859251896320": {
   "first": "2026-09-08",
   "last": "2026-09-09"
- },
- "https://mcpherrin.ca/2026/09/07/rsa.html": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://danluu.com/agentic-testing/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://d2lang.com/blog/tala-is-open-source/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://jyn.dev/a-year-to-fix-security/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://jellyfin.org/posts/jellyfin-release-12.0/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://lax-skyline.parcelscope.net/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://alvins82.github.io/hangar-harness-model-tests/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
- },
- "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force": {
-  "first": "2026-09-08",
-  "last": "2026-09-08"
  },
  "https://www.zhihu.com/question/2080887293624304807": {
   "first": "2026-09-09",
@@ -893,7 +765,7 @@
  },
  "https://juejin.cn/post/7684460980934049807": {
   "first": "2026-09-14",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://juejin.cn/post/7684102772083130422": {
   "first": "2026-09-14",
@@ -913,7 +785,7 @@
  },
  "https://juejin.cn/post/7684573646438301706": {
   "first": "2026-09-14",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://juejin.cn/post/7684573646439317514": {
   "first": "2026-09-14",
@@ -1045,11 +917,11 @@
  },
  "https://juejin.cn/post/7685188623412133898": {
   "first": "2026-09-15",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://juejin.cn/post/7685224902321848358": {
   "first": "2026-09-15",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://juejin.cn/post/7683846471340032051": {
   "first": "2026-09-15",
@@ -1057,7 +929,7 @@
  },
  "https://juejin.cn/post/7684228650583375878": {
   "first": "2026-09-15",
-  "last": "2026-09-15"
+  "last": "2026-09-16"
  },
  "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/": {
   "first": "2026-09-15",
@@ -1098,5 +970,145 @@
  "https://read.vantezzen.io/miniflags": {
   "first": "2026-09-15",
   "last": "2026-09-15"
+ },
+ "https://www.zhihu.com/question/2082841016533632412": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083262219391968613": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083215665414895312": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083239196697876066": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083275110949942854": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083290620022317685": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083160484220515329": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083224444105745394": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083449761068331348": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/1918778248533345743": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242123": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242184": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242215": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242297": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242307": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242347": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242230": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242161": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242169": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://www.v2ex.com/t/1242350": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://juejin.cn/post/7684649314159312930": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://juejin.cn/post/7685320540698361899": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://juejin.cn/post/7684759404727320627": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://juejin.cn/post/7684615074136801320": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://juejin.cn/post/7685644889096011827": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://typesafe.ai/blog/introducing-system-one-models-and-jev": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://github.com/arnegiacomo/fugleramme": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://security.apple.com/blog/apple-reference-image/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://inflightsimulator.com": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://nand2mario.github.io/posts/2026/zsst-voodoo/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
+ },
+ "https://codyho.dev/blog/gpu-driver/": {
+  "first": "2026-09-16",
+  "last": "2026-09-16"
  }
 }
