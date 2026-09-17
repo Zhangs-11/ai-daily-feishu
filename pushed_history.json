@@ -1,15 +1,11 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-16"
+  "last": "2026-09-17"
  },
  "https://juejin.cn/post/7681931232724860970": {
   "first": "2026-09-07",
   "last": "2026-09-11"
- },
- "https://juejin.cn/post/7682394398210932763": {
-  "first": "2026-09-08",
-  "last": "2026-09-09"
  },
  "https://juejin.cn/post/7682262550978936884": {
   "first": "2026-09-08",
@@ -31,133 +27,9 @@
   "first": "2026-09-08",
   "last": "2026-09-11"
  },
- "https://juejin.cn/post/7682013859251896320": {
-  "first": "2026-09-08",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080887293624304807": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080921286784409779": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080698018320344249": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2078942322033796756": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080949653168550211": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080319967770015402": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2078484653439305527": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080945551193763913": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080695583984174943": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.zhihu.com/question/2080666441016256229": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240564": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240426": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240449": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240605": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240610": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240644": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240550": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240445": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.v2ex.com/t/1240540": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://juejin.cn/post/7682217734722027558": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
  "https://juejin.cn/post/7682253775991734323": {
   "first": "2026-09-09",
   "last": "2026-09-11"
- },
- "https://ai.meta.com/muse/": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://cims.nyu.edu/~tristanb/statement.pdf": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
- },
- "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/": {
-  "first": "2026-09-09",
-  "last": "2026-09-09"
  },
  "https://www.zhihu.com/question/2080543688011289423": {
   "first": "2026-09-10",
@@ -917,11 +789,11 @@
  },
  "https://juejin.cn/post/7685188623412133898": {
   "first": "2026-09-15",
-  "last": "2026-09-16"
+  "last": "2026-09-17"
  },
  "https://juejin.cn/post/7685224902321848358": {
   "first": "2026-09-15",
-  "last": "2026-09-16"
+  "last": "2026-09-17"
  },
  "https://juejin.cn/post/7683846471340032051": {
   "first": "2026-09-15",
@@ -1057,7 +929,7 @@
  },
  "https://juejin.cn/post/7685320540698361899": {
   "first": "2026-09-16",
-  "last": "2026-09-16"
+  "last": "2026-09-17"
  },
  "https://juejin.cn/post/7684759404727320627": {
   "first": "2026-09-16",
@@ -1069,7 +941,7 @@
  },
  "https://juejin.cn/post/7685644889096011827": {
   "first": "2026-09-16",
-  "last": "2026-09-16"
+  "last": "2026-09-17"
  },
  "https://typesafe.ai/blog/introducing-system-one-models-and-jev": {
   "first": "2026-09-16",
@@ -1110,5 +982,149 @@
  "https://codyho.dev/blog/gpu-driver/": {
   "first": "2026-09-16",
   "last": "2026-09-16"
+ },
+ "https://www.zhihu.com/question/2083684721486029950": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083597869206823687": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083595578223636976": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083719036232324156": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083802170001044893": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083520419420713631": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2082261043515072893": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2083617552005947404": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2076450178576413956": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.zhihu.com/question/2075152642351937439": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242600": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242583": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242483": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242589": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242417": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242437": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242432": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242562": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242410": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.v2ex.com/t/1242441": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7685770509585629190": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7685267114438115366": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7685561582916304906": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7684943124759068682": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7685276242113019938": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://juejin.cn/post/7685597597233905716": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://ryan.science/blog/keys-not-included": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://rohanbansal.com/qorl": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://mimo.xiaomi.com/rl/": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://filipovski.net/2026/09/16/backups-arent-simple.html": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://arxiv.org/abs/2609.16338": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://will-keleher.com/posts/small-programming-tricks-matter/": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
+ },
+ "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/": {
+  "first": "2026-09-17",
+  "last": "2026-09-17"
  }
 }
