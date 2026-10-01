@@ -1,19 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-09-30"
- },
- "https://juejin.cn/post/7687436260063100963": {
-  "first": "2026-09-21",
-  "last": "2026-09-23"
- },
- "https://juejin.cn/post/7687441604429692955": {
-  "first": "2026-09-21",
-  "last": "2026-09-23"
- },
- "https://juejin.cn/post/7687331138987196425": {
-  "first": "2026-09-21",
-  "last": "2026-09-23"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7687439830713237513": {
   "first": "2026-09-21",
@@ -23,101 +11,9 @@
   "first": "2026-09-21",
   "last": "2026-09-24"
  },
- "https://juejin.cn/post/7687443714885959699": {
-  "first": "2026-09-22",
-  "last": "2026-09-23"
- },
  "https://juejin.cn/post/7687630544474701870": {
   "first": "2026-09-22",
   "last": "2026-09-24"
- },
- "https://juejin.cn/post/7686808742222856211": {
-  "first": "2026-09-22",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2083550065432573164": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2085447302525863203": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2086049666445965036": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2085749429131114426": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2081790395420238806": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2085738440742670337": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/1912045952526713318": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2085845337738932843": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2085033328839767042": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.zhihu.com/question/2039459450818404540": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1243934": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244101": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244105": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244111": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244021": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244147": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244093": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244052": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1244137": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.v2ex.com/t/1243960": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://juejin.cn/post/7687972882228461609": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
  },
  "https://juejin.cn/post/7687855879103021108": {
   "first": "2026-09-23",
@@ -126,46 +22,6 @@
  "https://juejin.cn/post/7687793891199418374": {
   "first": "2026-09-23",
   "last": "2026-09-24"
- },
- "https://openai.com/index/introducing-gpt-6-sol-and-luna/": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.anthropic.com/claude-opus-5-5": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://waymo.com/blog/2026/09/transit-rewards/": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.cryptocellar.org/bgac/the-mvueh-break.html": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://foxscript.org/": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://github.com/xCuri0/ReBarUEFI": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
- },
- "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/": {
-  "first": "2026-09-23",
-  "last": "2026-09-23"
  },
  "https://www.zhihu.com/question/2085119055418209469": {
   "first": "2026-09-24",
@@ -953,15 +809,15 @@
  },
  "https://juejin.cn/post/7690468159975637038": {
   "first": "2026-09-29",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7690393223730642980": {
   "first": "2026-09-29",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7690190550998007827": {
   "first": "2026-09-29",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7689408456148074523": {
   "first": "2026-09-29",
@@ -969,7 +825,7 @@
  },
  "https://juejin.cn/post/7690197651808616502": {
   "first": "2026-09-29",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://jagi.studio/posts/phyllotaxis/": {
   "first": "2026-09-29",
@@ -1089,15 +945,15 @@
  },
  "https://juejin.cn/post/7690769804492341298": {
   "first": "2026-09-30",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7690614916369252387": {
   "first": "2026-09-30",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://juejin.cn/post/7690405198255325234": {
   "first": "2026-09-30",
-  "last": "2026-09-30"
+  "last": "2026-10-01"
  },
  "https://github.com/ninjahawk/livenerf": {
   "first": "2026-09-30",
@@ -1138,5 +994,129 @@
  "https://space.bl2.net/": {
   "first": "2026-09-30",
   "last": "2026-09-30"
+ },
+ "https://www.zhihu.com/question/2085753079916388794": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2088956328886678092": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/302935324": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2088690399845902204": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2087907468932339038": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/7464139876": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/443161370": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2088625016011060624": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2079838395874988448": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/268772430": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245891": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245845": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245970": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245878": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245889": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245846": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245940": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.v2ex.com/t/1245961": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://juejin.cn/post/7690497704220196883": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://juejin.cn/post/7690869176362270729": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://juejin.cn/post/7690435049426681898": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.thespacereview.com/article/4951/1": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://twitter.com/0xcrypto/status/2105515822643114182": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://github.com/magnitudedev/magnitude": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://edgcpp.org/#transition": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
+ },
+ "https://www.mattkeeter.com/projects/halfspace/": {
+  "first": "2026-10-01",
+  "last": "2026-10-01"
  }
 }
