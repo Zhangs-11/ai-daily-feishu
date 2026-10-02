@@ -1,107 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-10-01"
- },
- "https://juejin.cn/post/7687439830713237513": {
-  "first": "2026-09-21",
-  "last": "2026-09-24"
- },
- "https://juejin.cn/post/7687440193649033222": {
-  "first": "2026-09-21",
-  "last": "2026-09-24"
- },
- "https://juejin.cn/post/7687630544474701870": {
-  "first": "2026-09-22",
-  "last": "2026-09-24"
- },
- "https://juejin.cn/post/7687855879103021108": {
-  "first": "2026-09-23",
-  "last": "2026-09-24"
- },
- "https://juejin.cn/post/7687793891199418374": {
-  "first": "2026-09-23",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2085119055418209469": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086078923444577833": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086113644882782205": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086174076758746059": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086373850099311367": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086254680162710149": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2085042527552411015": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2062478227231318838": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/2086089323196020260": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.zhihu.com/question/7911437334": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244403": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244359": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244389": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244262": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244393": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244237": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244460": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244259": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244335": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.v2ex.com/t/1244433": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
+  "last": "2026-10-02"
  },
  "https://juejin.cn/post/7688298824981856271": {
   "first": "2026-09-24",
@@ -118,50 +18,6 @@
  "https://juejin.cn/post/7687509634027831348": {
   "first": "2026-09-24",
   "last": "2026-09-25"
- },
- "https://juejin.cn/post/7687818534403588146": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://github.com/karmanyaahm/budget-tools/tree/main/fire": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://nanochess.org/transputer_c_compiler.html": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://fly.io/blog/vscode-ssh-wtf/": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://github.com/nestrilabs/virtio-nvgpu": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.meta.com/vr-glasses/": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
- },
- "https://www.mini-itx.com/projects/windowsxpbox/": {
-  "first": "2026-09-24",
-  "last": "2026-09-24"
  },
  "https://www.zhihu.com/question/2086444635463705931": {
   "first": "2026-09-25",
@@ -945,11 +801,11 @@
  },
  "https://juejin.cn/post/7690769804492341298": {
   "first": "2026-09-30",
-  "last": "2026-10-01"
+  "last": "2026-10-02"
  },
  "https://juejin.cn/post/7690614916369252387": {
   "first": "2026-09-30",
-  "last": "2026-10-01"
+  "last": "2026-10-02"
  },
  "https://juejin.cn/post/7690405198255325234": {
   "first": "2026-09-30",
@@ -1073,11 +929,11 @@
  },
  "https://juejin.cn/post/7690869176362270729": {
   "first": "2026-10-01",
-  "last": "2026-10-01"
+  "last": "2026-10-02"
  },
  "https://juejin.cn/post/7690435049426681898": {
   "first": "2026-10-01",
-  "last": "2026-10-01"
+  "last": "2026-10-02"
  },
  "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/": {
   "first": "2026-10-01",
@@ -1118,5 +974,149 @@
  "https://www.mattkeeter.com/projects/halfspace/": {
   "first": "2026-10-01",
   "last": "2026-10-01"
+ },
+ "https://www.zhihu.com/question/2088971415525356116": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2088990170007745695": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2088728472214684789": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2089023134829633992": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2089055184550885256": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/14188659719": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2089066625966290352": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2089262241337925992": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/1978164446527498062": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.zhihu.com/question/2089317765714637807": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246024": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246060": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246029": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246062": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246103": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246052": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246090": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246002": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246051": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.v2ex.com/t/1246061": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7691030977347207231": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7690776567971872768": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7690762523469479977": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7690779187615563776": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7690505279806373931": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://juejin.cn/post/7691207444283113506": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://earendil.com/posts/pi-1-0/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.deepseek.com/en/harness/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://inrng.com/2026/10/shimano-bicycle-museum/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://blog.cloudflare.com/clef-decision-models/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://lwn.net/Articles/1097401/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://svelte.dev/blog/sveltekit-3-is-here": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://automatictransmission.khoury.northeastern.edu/index.html": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
+ },
+ "https://earendil.com/posts/pi-durable/": {
+  "first": "2026-10-02",
+  "last": "2026-10-02"
  }
 }
