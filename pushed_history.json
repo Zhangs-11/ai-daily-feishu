@@ -1,107 +1,15 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-10-06"
+  "last": "2026-10-07"
  },
  "https://juejin.cn/post/7689599510955278336": {
   "first": "2026-09-28",
   "last": "2026-09-30"
  },
- "https://juejin.cn/post/7689096640691683343": {
-  "first": "2026-09-28",
-  "last": "2026-09-29"
- },
  "https://juejin.cn/post/7689818941397778478": {
   "first": "2026-09-28",
   "last": "2026-09-30"
- },
- "https://www.zhihu.com/question/2087997878270523124": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2087614254006400641": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2087076854901499314": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2088001437158720152": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2087855251550200178": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2087220367001645469": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2053048540797130503": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2085307820598105501": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2086472782729196810": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.zhihu.com/question/2086454660316112597": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245409": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245443": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245433": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245430": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245405": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245350": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245329": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245413": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245426": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.v2ex.com/t/1245417": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://juejin.cn/post/7690097952816709659": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://juejin.cn/post/7689377403413430307": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
  },
  "https://juejin.cn/post/7690468159975637038": {
   "first": "2026-09-29",
@@ -122,46 +30,6 @@
  "https://juejin.cn/post/7690197651808616502": {
   "first": "2026-09-29",
   "last": "2026-10-01"
- },
- "https://jagi.studio/posts/phyllotaxis/": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://mubi.com/en/notebook/posts/pirating-the-pirates": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://stateofutopia.com/experiments/microllmlab/": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://github.com/firelex/jeff": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "http://www.jimsitu.com": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://jonclegg.github.io/pacman-bakeoff/": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
- },
- "https://www.anthropic.com/claude-sonnet-5-5": {
-  "first": "2026-09-29",
-  "last": "2026-09-29"
  },
  "https://www.zhihu.com/question/2088295452206523479": {
   "first": "2026-09-30",
@@ -1133,11 +1001,11 @@
  },
  "https://juejin.cn/post/7692440533922971667": {
   "first": "2026-10-06",
-  "last": "2026-10-06"
+  "last": "2026-10-07"
  },
  "https://juejin.cn/post/7692296625806508072": {
   "first": "2026-10-06",
-  "last": "2026-10-06"
+  "last": "2026-10-07"
  },
  "https://juejin.cn/post/7691517675236556854": {
   "first": "2026-10-06",
@@ -1145,7 +1013,7 @@
  },
  "https://juejin.cn/post/7692379120273899560": {
   "first": "2026-10-06",
-  "last": "2026-10-06"
+  "last": "2026-10-07"
  },
  "https://juejin.cn/post/7692676879360720923": {
   "first": "2026-10-06",
@@ -1202,5 +1070,149 @@
  "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/": {
   "first": "2026-10-06",
   "last": "2026-10-06"
+ },
+ "https://www.zhihu.com/question/2090789565132793677": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2091041715104781851": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2090359345611536087": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2016313630002521282": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2090851900056942156": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2090907666101040882": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2090570375985995816": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2079914321405031953": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/2090763805005452008": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.zhihu.com/question/1992089217535350603": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246642": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246711": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246664": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246705": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246735": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246674": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246645": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246636": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://www.v2ex.com/t/1246743": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692127219867123750": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7693358476032049162": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692743066844135433": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692084224499367971": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692336657548279842": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692296625806229544": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://juejin.cn/post/7692058641252237322": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://openai.com/index/sharing-ai-progress-in-mathematics/": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://strandsagents.com/blog/introducing-strands-decider/": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://developers.openai.com/api/docs/guides/decisions": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://github.com/shader-effects-inc/shaders": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://penguin-mail.com/": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://nanochess.org/la_cueva_bbs.html": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://mistral.ai/news/mistral-large-4/\\": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://lucumr.pocoo.org/2026/10/6/codemode/": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
+ },
+ "https://github.com/M-Abozaid/esp32-c3-adblock": {
+  "first": "2026-10-07",
+  "last": "2026-10-07"
  }
 }
