@@ -1,23 +1,7 @@
 {
  "https://aihot.virxact.com": {
   "first": "2026-07-10",
-  "last": "2026-10-08"
- },
- "https://juejin.cn/post/7690468159975637038": {
-  "first": "2026-09-29",
-  "last": "2026-10-01"
- },
- "https://juejin.cn/post/7690393223730642980": {
-  "first": "2026-09-29",
-  "last": "2026-10-01"
- },
- "https://juejin.cn/post/7690190550998007827": {
-  "first": "2026-09-29",
-  "last": "2026-10-01"
- },
- "https://juejin.cn/post/7690197651808616502": {
-  "first": "2026-09-29",
-  "last": "2026-10-01"
+  "last": "2026-10-09"
  },
  "https://juejin.cn/post/7690769804492341298": {
   "first": "2026-09-30",
@@ -27,86 +11,6 @@
   "first": "2026-09-30",
   "last": "2026-10-02"
  },
- "https://juejin.cn/post/7690405198255325234": {
-  "first": "2026-09-30",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2085753079916388794": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2088956328886678092": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/302935324": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2088690399845902204": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2087907468932339038": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/7464139876": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/443161370": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2088625016011060624": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/2079838395874988448": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.zhihu.com/question/268772430": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245891": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245845": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245970": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245878": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245889": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245846": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245940": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.v2ex.com/t/1245961": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://juejin.cn/post/7690497704220196883": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
  "https://juejin.cn/post/7690869176362270729": {
   "first": "2026-10-01",
   "last": "2026-10-02"
@@ -114,46 +18,6 @@
  "https://juejin.cn/post/7690435049426681898": {
   "first": "2026-10-01",
   "last": "2026-10-02"
- },
- "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.thespacereview.com/article/4951/1": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://twitter.com/0xcrypto/status/2105515822643114182": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://github.com/magnitudedev/magnitude": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://edgcpp.org/#transition": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
- },
- "https://www.mattkeeter.com/projects/halfspace/": {
-  "first": "2026-10-01",
-  "last": "2026-10-01"
  },
  "https://www.zhihu.com/question/2088971415525356116": {
   "first": "2026-10-02",
@@ -1025,7 +889,7 @@
  },
  "https://juejin.cn/post/7693358476032049162": {
   "first": "2026-10-07",
-  "last": "2026-10-08"
+  "last": "2026-10-09"
  },
  "https://juejin.cn/post/7692743066844135433": {
   "first": "2026-10-07",
@@ -1169,11 +1033,11 @@
  },
  "https://juejin.cn/post/7693821701955567670": {
   "first": "2026-10-08",
-  "last": "2026-10-08"
+  "last": "2026-10-09"
  },
  "https://juejin.cn/post/7693757919828901923": {
   "first": "2026-10-08",
-  "last": "2026-10-08"
+  "last": "2026-10-09"
  },
  "https://juejin.cn/post/7692369572608786467": {
   "first": "2026-10-08",
@@ -1193,7 +1057,7 @@
  },
  "https://juejin.cn/post/7693144953569493043": {
   "first": "2026-10-08",
-  "last": "2026-10-08"
+  "last": "2026-10-09"
  },
  "https://mathstodon.xyz/@tao/117395269325940185": {
   "first": "2026-10-08",
@@ -1234,5 +1098,141 @@
  "https://openai.com/index/gpt-6-for-everyone/": {
   "first": "2026-10-08",
   "last": "2026-10-08"
+ },
+ "https://www.zhihu.com/question/2091466972869257136": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2091565679044294573": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/1997616102793033485": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2090569820035143607": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2091229073544589486": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2091651337515525191": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2090915036990543444": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2091791488497575521": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2078025511972889657": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.zhihu.com/question/2091501629530969313": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247240": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247250": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247194": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247254": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247192": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247211": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247058": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.v2ex.com/t/1247251": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7694124645507940379": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7694107051320311827": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7694185019602812968": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7694064588329320490": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7693579496969486382": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://juejin.cn/post/7693805723602157578": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://quake-srp.pages.dev/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://lwn.net/Articles/1095811/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://cactuscompute.com/blog/whistle": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://www.theranos.world/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://htmx.org/essays/yes-and/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
+ },
+ "https://karagila.org/2026/openai-pp/": {
+  "first": "2026-10-09",
+  "last": "2026-10-09"
  }
 }
