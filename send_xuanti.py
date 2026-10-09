@@ -18,7 +18,9 @@ import requests
 from datetime import datetime, timezone, timedelta
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-AIHOT_BASE = "https://aihot.virxact.com"
+AIHOT_BASE = "https://aihot.news"
+# AIHOT v1 JSON 接口；程序化调用按 AIHOT 要求使用 aihot-api User-Agent
+AIHOT_UA = "aihot-api/2.0.0"
 WEBHOOK_URL = os.environ.get("XUANTI_FEISHU_WEBHOOK_URL")
 TIMEOUT = 15
 
@@ -120,17 +122,12 @@ def fetch_reddit(limit=12):
 
 
 def fetch_aihot(limit=8):
-    since = (datetime.now(timezone.utc) - timedelta(hours=24)).strftime("%Y-%m-%dT%H:%M:%SZ")
     data = requests.get(
-        f"{AIHOT_BASE}/api/public/items",
-        params={"mode": "selected", "since": since, "take": limit},
-        headers={"User-Agent": UA}, timeout=TIMEOUT,
+        f"{AIHOT_BASE}/api/v1/items",
+        params={"mode": "selected", "window": "24h", "limit": limit},
+        headers={"User-Agent": AIHOT_UA}, timeout=TIMEOUT,
     ).json()
-    items = []
-    for it in data.get("items", []):
-        url = it.get("sourceUrl") or AIHOT_BASE
-        items.append((it["title"], url))
-    return items
+    return [(it["title"], it["links"]["original"]) for it in data["items"]]
 
 
 SOURCES = [

@@ -7,26 +7,35 @@ import time
 import requests
 from datetime import datetime, timezone, timedelta
 
-UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
-BASE = "https://aihot.virxact.com"
+# AIHOT v1 JSON 接口；程序化调用按 AIHOT 要求使用 aihot-api User-Agent
+UA = "aihot-api/2.0.0"
+BASE = "https://aihot.news"
 WEBHOOK_URL = os.environ.get("FEISHU_WEBHOOK_URL")
 
 
 def fetch_daily():
-    resp = requests.get(f"{BASE}/api/public/daily", headers={"User-Agent": UA})
+    resp = requests.get(f"{BASE}/api/v1/dailies/latest", headers={"User-Agent": UA}, timeout=20)
     resp.raise_for_status()
-    return resp.json()
+    return resp.json()["report"]
 
 
-def fetch_items(mode="selected", since_hours=72, take=50):
-    since = (datetime.now(timezone.utc) - timedelta(hours=since_hours)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    resp = requests.get(
-        f"{BASE}/api/public/items",
-        headers={"User-Agent": UA},
-        params={"mode": mode, "since": since, "take": take},
-    )
-    resp.raise_for_status()
-    return resp.json().get("items", [])
+def fetch_items(mode="selected", since_hours=72):
+    """v1 的时间窗只有 24h / 7d，取 7d 按发布时间倒序翻页，截到 since_hours 以内"""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=since_hours)
+    params = {"mode": mode, "window": "7d", "by": "published", "limit": 100}
+    items = []
+    while True:
+        resp = requests.get(f"{BASE}/api/v1/items", headers={"User-Agent": UA}, params=params, timeout=20)
+        resp.raise_for_status()
+        data = resp.json()
+        for item in data["items"]:
+            published = datetime.fromisoformat(item["publishedAt"].replace("Z", "+00:00"))
+            if published < cutoff:
+                return items
+            items.append(item)
+        if not data["page"]["hasMore"]:
+            return items
+        params["cursor"] = data["page"]["nextCursor"]
 
 
 def build_daily_card(data):
@@ -36,7 +45,7 @@ def build_daily_card(data):
     elements = [
         {
             "tag": "markdown",
-            "content": f"🌅 **AI HOT 日报 · {date}**\n数据来源：aihot.virxact.com",
+            "content": f"🌅 **AI HOT 日报 · {date}**\n数据来源：aihot.news",
         }
     ]
 
@@ -50,12 +59,12 @@ def build_daily_card(data):
         lines = [f"**{label}**"]
         for idx, item in enumerate(items):
             summary = item.get("summary", "")
-            line = f"{idx+1}. **{item['title']}** — {item['sourceName']}"
+            line = f"{idx+1}. **{item['title']}** — {item['source']['name']}"
             if summary:
                 summary_short = summary[:100] + ("..." if len(summary) > 100 else "")
                 line += f"\n{summary_short}"
-            if item.get("sourceUrl"):
-                markdown_url = item["sourceUrl"].replace(")", "%29")
+            if item["links"].get("original"):
+                markdown_url = item["links"]["original"].replace(")", "%29")
                 line += f"\n[🔗 原文]({markdown_url})"
             lines.append(line)
         elements.append({"tag": "markdown", "content": "\n\n".join(lines)})
@@ -90,7 +99,8 @@ def build_summary_card(items):
         "ai-products": "产品发布/更新",
         "industry": "行业动态",
         "paper": "论文研究",
-        "tip": "技巧与观点",
+        "tip": "教程",
+        "opinion": "观点",
     }
 
     grouped = {}
@@ -108,12 +118,12 @@ def build_summary_card(items):
         for item in cat_items[:8]:  # 每类最多8条，避免炸消息
             global_idx += 1
             summary = item.get("summary", "")
-            line = f"{global_idx}. **{item['title']}** — {item['source']}"
+            line = f"{global_idx}. **{item['title']}** — {item['source']['name']}"
             if summary:
                 summary_short = summary[:80] + ("..." if len(summary) > 80 else "")
                 line += f"\n{summary_short}"
-            if item.get("url"):
-                markdown_url = item["url"].replace(")", "%29")
+            if item["links"].get("original"):
+                markdown_url = item["links"]["original"].replace(")", "%29")
                 line += f"\n[🔗 原文]({markdown_url})"
             lines.append(line)
         elements.append({"tag": "markdown", "content": "\n\n".join(lines)})
