@@ -1,12 +1,4 @@
 {
- "https://aihot.virxact.com": {
-  "first": "2026-07-10",
-  "last": "2026-10-09"
- },
- "https://juejin.cn/post/7693358476032049162": {
-  "first": "2026-10-07",
-  "last": "2026-10-09"
- },
  "https://juejin.cn/post/7693821701955567670": {
   "first": "2026-10-08",
   "last": "2026-10-10"
@@ -14,82 +6,6 @@
  "https://juejin.cn/post/7693757919828901923": {
   "first": "2026-10-08",
   "last": "2026-10-10"
- },
- "https://juejin.cn/post/7693144953569493043": {
-  "first": "2026-10-08",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091466972869257136": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091565679044294573": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/1997616102793033485": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2090569820035143607": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091229073544589486": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091651337515525191": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2090915036990543444": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091791488497575521": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2078025511972889657": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.zhihu.com/question/2091501629530969313": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247240": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247250": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247194": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247254": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247192": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247211": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247058": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.v2ex.com/t/1247251": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
  },
  "https://juejin.cn/post/7694124645507940379": {
   "first": "2026-10-09",
@@ -114,46 +30,6 @@
  "https://juejin.cn/post/7693805723602157578": {
   "first": "2026-10-09",
   "last": "2026-10-10"
- },
- "https://quake-srp.pages.dev/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://lwn.net/Articles/1095811/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://cactuscompute.com/blog/whistle": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://www.theranos.world/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://htmx.org/essays/yes-and/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
- },
- "https://karagila.org/2026/openai-pp/": {
-  "first": "2026-10-09",
-  "last": "2026-10-09"
  },
  "https://www.zhihu.com/question/2092202549394633747": {
   "first": "2026-10-10",
@@ -1253,11 +1129,11 @@
  },
  "https://juejin.cn/post/7696118815167807539": {
   "first": "2026-10-16",
-  "last": "2026-10-16"
+  "last": "2026-10-17"
  },
  "https://juejin.cn/post/7696483064553701376": {
   "first": "2026-10-16",
-  "last": "2026-10-16"
+  "last": "2026-10-17"
  },
  "https://juejin.cn/post/7696077282666889250": {
   "first": "2026-10-16",
@@ -1269,7 +1145,7 @@
  },
  "https://juejin.cn/post/7696118815168954419": {
   "first": "2026-10-16",
-  "last": "2026-10-16"
+  "last": "2026-10-17"
  },
  "https://juejin.cn/post/7695985750949494818": {
   "first": "2026-10-16",
@@ -1277,7 +1153,7 @@
  },
  "https://juejin.cn/post/7696414863695708200": {
   "first": "2026-10-16",
-  "last": "2026-10-16"
+  "last": "2026-10-17"
  },
  "https://research.meta.ai/blog/muse-spark-open": {
   "first": "2026-10-16",
@@ -1318,5 +1194,173 @@
  "https://github.com/fyzugx/DEsk": {
   "first": "2026-10-16",
   "last": "2026-10-16"
+ },
+ "https://www.zhihu.com/question/2094385669615218922": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094349165270717967": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094141358558502945": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094694840407519249": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2072942795107705780": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094555391921059009": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094122392523990193": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094717252792578329": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094335476488300413": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2094037238065714517": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.anthropic.com/research/employment-at-anthropic": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://x.com/arena/status/2111221323217412318": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.anthropic.com/research/ai-expectations-gap": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.anthropic.com/research/ecdsa-curve-origins": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://x.com/shao__meng/status/2111274173192638932": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.anthropic.com/research/designing-efficient-quantum-circuits": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.a16z.news/p/this-week-in-charts-agents-denied": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249389": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249365": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249406": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249536": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249355": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249334": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249345": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249437": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.v2ex.com/t/1249458": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7697075629647003698": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7696820671752323107": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7696461528959090731": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7696662898144870451": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7696838570036314148": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://juejin.cn/post/7696080841777020966": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.paperinstruments.com/ultramarine": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.tesla.com/roadster": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://github.com/cobanov/PS5LM": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://alexwang.ai/posts/associative-memory/": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://bfl.ai/blog/flux-3-image-klein": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://fakeipedia.org": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
+ },
+ "https://dune.fandom.com/wiki/Butlerian_Jihad": {
+  "first": "2026-10-17",
+  "last": "2026-10-17"
  }
 }
