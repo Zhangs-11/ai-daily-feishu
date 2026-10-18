@@ -1,12 +1,4 @@
 {
- "https://juejin.cn/post/7693821701955567670": {
-  "first": "2026-10-08",
-  "last": "2026-10-10"
- },
- "https://juejin.cn/post/7693757919828901923": {
-  "first": "2026-10-08",
-  "last": "2026-10-10"
- },
  "https://juejin.cn/post/7694124645507940379": {
   "first": "2026-10-09",
   "last": "2026-10-11"
@@ -19,169 +11,9 @@
   "first": "2026-10-09",
   "last": "2026-10-11"
  },
- "https://juejin.cn/post/7694064588329320490": {
-  "first": "2026-10-09",
-  "last": "2026-10-10"
- },
- "https://juejin.cn/post/7693579496969486382": {
-  "first": "2026-10-09",
-  "last": "2026-10-10"
- },
- "https://juejin.cn/post/7693805723602157578": {
-  "first": "2026-10-09",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2092202549394633747": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2091935101781107354": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2092200492000438103": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2090544879965419159": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2065112345672787468": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2091899479041499728": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2091945934384887319": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2091924168262541984": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/21069416": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.zhihu.com/question/2091540692220601762": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://x.com/indigox/status/2108791275914993998": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://alignment.openai.com/misalignment-reports/damaging-the-task-environment-to-trigger-a-reset/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://x.com/rohanpaul_ai/status/2108741349419913339": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.ithome.com/1/011/194.htm": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.anthropic.com/research/investigating-unintended-model-actions": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247361": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247354": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247465": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247511": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247383": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247509": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247525": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.v2ex.com/t/1247527": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://juejin.cn/post/7693414422438723626": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
  "https://juejin.cn/post/7694480295002128410": {
   "first": "2026-10-10",
   "last": "2026-10-12"
- },
- "https://rea.tools/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://deno.com/blog/cloudflare": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://minesweeper.mikelacher.com/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://typesafe.ai/blog/series-ai": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://carrierexplode.com/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://lwn.net/Articles/1055211/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
- },
- "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/": {
-  "first": "2026-10-10",
-  "last": "2026-10-10"
  },
  "https://www.zhihu.com/question/2092513467722719411": {
   "first": "2026-10-11",
@@ -1133,7 +965,7 @@
  },
  "https://juejin.cn/post/7696483064553701376": {
   "first": "2026-10-16",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696077282666889250": {
   "first": "2026-10-16",
@@ -1153,7 +985,7 @@
  },
  "https://juejin.cn/post/7696414863695708200": {
   "first": "2026-10-16",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://research.meta.ai/blog/muse-spark-open": {
   "first": "2026-10-16",
@@ -1305,23 +1137,23 @@
  },
  "https://juejin.cn/post/7697075629647003698": {
   "first": "2026-10-17",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696820671752323107": {
   "first": "2026-10-17",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696461528959090731": {
   "first": "2026-10-17",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696662898144870451": {
   "first": "2026-10-17",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696838570036314148": {
   "first": "2026-10-17",
-  "last": "2026-10-17"
+  "last": "2026-10-18"
  },
  "https://juejin.cn/post/7696080841777020966": {
   "first": "2026-10-17",
@@ -1362,5 +1194,149 @@
  "https://dune.fandom.com/wiki/Butlerian_Jihad": {
   "first": "2026-10-17",
   "last": "2026-10-17"
+ },
+ "https://www.zhihu.com/question/2093003760058332999": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094427246341485364": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2069044284678829079": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2093738651259597355": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094464362748405033": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094785686142558570": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094959269275878409": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/6084067036": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094349174879809687": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.zhihu.com/question/2094715615177085550": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://x.com/Khazix0918/status/2111639562720329976": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://x.com/WorkBuddy_AI/status/2111404103402430558": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://api-docs.deepseek.com/zh-cn/updates/#开放自研搜索-api": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249646": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249583": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249603": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249581": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249607": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249681": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249621": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.v2ex.com/t/1249634": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://juejin.cn/post/7696889902293614642": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://juejin.cn/post/7697168479082889243": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://juejin.cn/post/7696713457149362230": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.nature.com/articles/d41586-026-03266-x": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://sphinx-six-theta.vercel.app/": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://pele.run/": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://furifont.antfu.me/": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
+ },
+ "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using": {
+  "first": "2026-10-18",
+  "last": "2026-10-18"
  }
 }
