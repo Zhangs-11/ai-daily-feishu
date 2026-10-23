@@ -1,143 +1,7 @@
 {
- "https://juejin.cn/post/7695591914960748586": {
-  "first": "2026-10-13",
-  "last": "2026-10-15"
- },
- "https://juejin.cn/post/7695604296682930186": {
-  "first": "2026-10-13",
-  "last": "2026-10-15"
- },
- "https://juejin.cn/post/7695604643287531535": {
-  "first": "2026-10-13",
-  "last": "2026-10-15"
- },
  "https://juejin.cn/post/7695939202564669474": {
   "first": "2026-10-14",
   "last": "2026-10-16"
- },
- "https://juejin.cn/post/7695604296683274250": {
-  "first": "2026-10-14",
-  "last": "2026-10-15"
- },
- "https://juejin.cn/post/7695562157778157608": {
-  "first": "2026-10-14",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093821528492204459": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093997001205445814": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093768214543087532": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093748550467437948": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093648090582599188": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093694552544470480": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093793245977211953": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/44016534": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2031055936807231647": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.zhihu.com/question/2093803354644112874": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.databricks.com/blog/reducing-qwen-training-time-6x-ai-runtime": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.ithome.com/1/013/154.htm": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://vllm.ai/blog/2026-10-14-adaptive-verification-online-estimator": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://x.com/GeminiApp/status/2110491358498865638": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://x.com/lydiahallie/status/2110484841926152622": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.ithome.com/1/013/160.htm": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://x.com/arena/status/2110465487914295770": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248876": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248818": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248884": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248789": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248902": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248931": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248773": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248883": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248758": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.v2ex.com/t/1248887": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://juejin.cn/post/7695697094277087272": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
  },
  "https://juejin.cn/post/7695999629460029466": {
   "first": "2026-10-15",
@@ -146,50 +10,6 @@
  "https://juejin.cn/post/7695700837499519014": {
   "first": "2026-10-15",
   "last": "2026-10-16"
- },
- "https://juejin.cn/post/7695613699442311222": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://anoma.ly/notes/opencode-2-0/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://tinylittleoffice.com/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.liquid.ai/blog/lfm2-5-24b-a2b": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://mapwriting.substack.com/p/dentists": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://kennedn.com/blog/posts/glitching/": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
- },
- "https://sebsite.pw/w/20261012-notstdc.html": {
-  "first": "2026-10-15",
-  "last": "2026-10-15"
  },
  "https://www.zhihu.com/question/2094093905973044678": {
   "first": "2026-10-16",
@@ -949,7 +769,7 @@
  },
  "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97": {
   "first": "2026-10-20",
-  "last": "2026-10-20"
+  "last": "2026-10-23"
  },
  "https://s.weibo.com/weibo?q=%E5%80%AA%E8%90%8D%E5%BD%93%E5%B9%B4%E6%89%8B%E6%92%95%E9%87%91%E9%B8%A1%E5%A5%96%E5%A4%AA%E5%8B%87": {
   "first": "2026-10-20",
@@ -1537,7 +1357,7 @@
  },
  "https://juejin.cn/post/7698382188488048649": {
   "first": "2026-10-22",
-  "last": "2026-10-22"
+  "last": "2026-10-23"
  },
  "https://juejin.cn/post/7698283872392757286": {
   "first": "2026-10-22",
@@ -1545,7 +1365,7 @@
  },
  "https://juejin.cn/post/7698947426489663528": {
   "first": "2026-10-22",
-  "last": "2026-10-22"
+  "last": "2026-10-23"
  },
  "https://juejin.cn/post/7698254253442793507": {
   "first": "2026-10-22",
@@ -1553,7 +1373,7 @@
  },
  "https://juejin.cn/post/7698637850893139977": {
   "first": "2026-10-22",
-  "last": "2026-10-22"
+  "last": "2026-10-23"
  },
  "https://juejin.cn/post/7698239626868310067": {
   "first": "2026-10-22",
@@ -1561,7 +1381,7 @@
  },
  "https://juejin.cn/post/7698646220872450082": {
   "first": "2026-10-22",
-  "last": "2026-10-22"
+  "last": "2026-10-23"
  },
  "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf": {
   "first": "2026-10-22",
@@ -1602,5 +1422,233 @@
  "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/": {
   "first": "2026-10-22",
   "last": "2026-10-22"
+ },
+ "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E5%AB%8C%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E8%AF%B7%E6%9D%A5%E7%9A%84%E5%92%96%E7%B3%8A%E4%BA%86": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%96%B9%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E8%B5%B6%E5%BE%80%E9%9C%87%E4%B8%AD": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%80%E6%AF%AF": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AF%B4%E8%82%A1%E7%A5%A8%E8%B7%8C%E5%BE%97%E5%BF%83%E7%96%BC": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%89%A7%E5%AE%A3%E6%8E%92%E9%9D%A2": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=VOGUE%E6%98%8E%E6%98%9F%E5%87%BA%E5%9B%BE": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F7%E7%BA%A7%E5%9C%B0%E9%9C%87": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%95%86%E5%AE%B6%E8%AF%B4iPhoneDuo%E6%AF%AB%E6%97%A0%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C2040%E4%B8%87": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%B4%A9%E4%BA%86": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E5%8E%89%E5%A8%9C%E8%AE%B8%E9%A3%9E%E5%A5%BD%E7%BA%AF%E7%B2%B9%E7%9A%84%E6%81%A8": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E4%BD%95%E7%A9%97%20%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C%E4%BA%86": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%A5%B3%E7%94%9F%E6%8A%95150%E4%B8%87%E5%BC%80%E6%97%A0%E7%83%9F%E9%85%92%E5%90%A7%E5%80%92%E9%97%AD": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2096358861804511510": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2096626576456507559": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2096519816542736864": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2095926994475168071": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2095898029207335812": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2089335688500192096": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2095479322576532718": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2096880010871007016": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2083081409120433686": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.zhihu.com/question/2095632739823308814": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://x.com/MiniMax_AI/status/2113436864904610008": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.anthropic.com/research/formal-verification": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://replit.com/blog/replit-monitoring-agent": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://x.com/claudeai/status/2113360845409583307": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://openai.com/index/decisions-api": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://microsoft.ai/news/building-medical-superintelligence/": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251126": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1250940": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1250922": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251119": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251151": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251139": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1250909": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251200": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1251110": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.v2ex.com/t/1250949": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7699215174621364267": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7698999578180075547": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7699320318288494630": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7699243153364123690": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7699094123467178034": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://juejin.cn/post/7698268211586957338": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://codeandcake.dev/posts/2026-10-22-docker-is-weird": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://quad9.net/news/blog/au-revoir-france/": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://news.ycombinator.com/item?id=50204125": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://github.com/NVIDIA/OpenShell": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
+ },
+ "https://github.com/oosexgang/hackios-xnu-kernel": {
+  "first": "2026-10-23",
+  "last": "2026-10-23"
  }
 }
