@@ -1,24 +1,4 @@
 {
- "https://s.weibo.com/weibo?q=A%E8%82%A1": {
-  "first": "2026-10-29",
-  "last": "2026-11-04"
- },
- "https://juejin.cn/post/7703007994455343138": {
-  "first": "2026-11-02",
-  "last": "2026-11-04"
- },
- "https://juejin.cn/post/7702759616728088611": {
-  "first": "2026-11-02",
-  "last": "2026-11-04"
- },
- "https://juejin.cn/post/7703011669408661538": {
-  "first": "2026-11-02",
-  "last": "2026-11-04"
- },
- "https://juejin.cn/post/7703289640062713907": {
-  "first": "2026-11-02",
-  "last": "2026-11-04"
- },
  "https://juejin.cn/post/7703379063838310434": {
   "first": "2026-11-03",
   "last": "2026-11-05"
@@ -26,178 +6,6 @@
  "https://juejin.cn/post/7703387329880408114": {
   "first": "2026-11-03",
   "last": "2026-11-05"
- },
- "https://juejin.cn/post/7703136318080253995": {
-  "first": "2026-11-03",
-  "last": "2026-11-04"
- },
- "https://juejin.cn/post/7702866392132337718": {
-  "first": "2026-11-03",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=369%E8%AF%B4%E8%A2%ABTheShy%E5%BE%81%E6%9C%8D%E4%BA%86": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A%E6%80%8E%E4%B9%88%E5%AD%A6": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%9B%9B%E9%83%A8%E5%89%A7%E9%83%BD%E4%B8%8A%E6%A6%9C%E4%BA%86": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E5%B0%8F%E4%BC%99200%E5%A4%9A%E4%B8%87%E4%B9%B014%E5%A5%97%E6%88%BF%E5%B9%B4%E6%94%B6%E7%A7%9F21%E4%B8%87": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B4.74%E4%BA%BF%E5%8A%A9%E9%80%89%E5%88%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E7%BA%AA%E5%BD%95": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=TheShy%E8%B0%88369%E4%B8%80%E6%89%93%E4%B8%89%E5%AE%88%E5%AE%B6": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%8A%AC%E5%A4%B4%E7%8E%87": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9B%BE%E9%82%80%E7%BA%A6%E6%9D%A8%E5%B9%82%E5%94%90%E5%AB%A3%E8%A2%AB%E5%A9%89%E6%8B%92": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E9%9D%A2%E6%83%A8%E8%B4%A5": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E6%96%87%E5%90%89%E5%84%BF%E8%A2%AB%E6%8C%87%E5%A4%AA%E6%81%90%E6%80%96": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E6%9E%97%E4%B8%80%E6%89%BE%E5%88%B0%E4%BA%86%E5%8F%91%E7%83%A7%E6%9C%89%E5%8E%BB%E5%8C%BB%E9%99%A2%E7%9A%84%E8%AF%81%E6%8D%AE": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://s.weibo.com/weibo?q=%E6%B0%94%E8%B1%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94APP%E9%A2%84%E6%8A%A5%E6%9E%81%E7%AB%AF%E5%A4%A9%E6%B0%94": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2100904648848810346": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2101181692593584075": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2056394072684770376": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2099928060027990576": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2100983027241375316": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2101126085631009295": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2100539537923338651": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2101045355492263432": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2085093726301448152": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.zhihu.com/question/2100908733467289351": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://mp.weixin.qq.com/s/T9_acg247gxzUNL4j5zrCw": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://x.com/rohanpaul_ai/status/2117757237557088263": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://cognition.com/blog/practical-guide-to-security-november-2026": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.openhands.dev/blog/post-train-ai-models-openhands-snowflake": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://alignment.openai.com/eval-production-behavior-gap/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.wheresyoured.at/running-dry/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://twitter.com/guilleflorvs/status/2117379073785696395": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254304": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254349": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254229": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254298": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254205": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254356": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254348": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254315": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.v2ex.com/t/1254326": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
  },
  "https://juejin.cn/post/7703861537010925603": {
   "first": "2026-11-04",
@@ -210,46 +18,6 @@
  "https://juejin.cn/post/7703431570200739875": {
   "first": "2026-11-04",
   "last": "2026-11-05"
- },
- "https://mrdoob.github.io/codevember-2026/01/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://www.interdb.jp/pg/index.html": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://blog.nns.ee/2026/11/02/renault-hack/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://neufangled.com/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://hackertv.org": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://uncracked.city": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
- },
- "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/": {
-  "first": "2026-11-04",
-  "last": "2026-11-04"
  },
  "https://s.weibo.com/weibo?q=%E9%BB%84%E4%B9%8B%E9%94%8B%E5%86%8D%E5%88%A410%E5%B9%B4": {
   "first": "2026-11-05",
@@ -1557,7 +1325,7 @@
  },
  "https://juejin.cn/post/7705961716425490447": {
   "first": "2026-11-10",
-  "last": "2026-11-11"
+  "last": "2026-11-12"
  },
  "https://juejin.cn/post/7705316753005674511": {
   "first": "2026-11-10",
@@ -1569,7 +1337,7 @@
  },
  "https://juejin.cn/post/7706013328653680678": {
   "first": "2026-11-10",
-  "last": "2026-11-11"
+  "last": "2026-11-12"
  },
  "https://juejin.cn/post/7705608480665337882": {
   "first": "2026-11-10",
@@ -1789,7 +1557,7 @@
  },
  "https://juejin.cn/post/7706346256684023846": {
   "first": "2026-11-11",
-  "last": "2026-11-11"
+  "last": "2026-11-12"
  },
  "https://juejin.cn/post/7705618278807289910": {
   "first": "2026-11-11",
@@ -1838,5 +1606,241 @@
  "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/": {
   "first": "2026-11-11",
   "last": "2026-11-11"
+ },
+ "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%89%93%E8%84%B8%E8%B0%81": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E8%AF%97": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%E5%8F%88%E5%B0%81%E7%A5%9E%E4%BA%86": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B713%E6%97%A5%E8%B5%B7%E4%B8%8B%E8%B0%83": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%AF%B4%E7%8E%8B%E5%AD%90%E7%92%87%E5%B7%B2%E7%BB%8F%E5%AF%B9%E6%96%87%E5%90%89%E5%84%BF%E5%BA%94%E6%BF%80%E4%BA%86": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%BE%B7%E8%8A%99%E5%B9%BF%E5%91%8A%E5%AE%A3%E6%89%AC%E9%94%99%E8%AF%AF%E5%A9%9A%E6%81%8B%E8%A7%82%E8%A2%AB%E7%BD%9A80%E4%B8%87%E5%85%83": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%E5%9B%9E%E5%BA%94%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E8%B0%8D%E6%8A%A5%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6%E6%9D%80%E9%9D%92%E4%B8%80%E5%B9%B4%E5%90%8E%E8%A1%A5%E6%8B%8D": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E6%9B%BE%E5%9B%A0%E9%AB%98%E8%BF%AA%E5%BC%80%E6%88%BF%E8%B0%83%E7%9B%91%E6%8E%A7": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E9%97%AE%E6%96%87%E5%90%89%E5%84%BF%E5%87%BA%E9%99%A2%E6%80%8E%E4%B9%88%E4%B8%8D%E8%87%AA%E5%B7%B1%E6%89%93%E8%BD%A6%E8%BF%87%E6%9D%A5": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%BE%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD%20%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://s.weibo.com/weibo?q=15%E5%B2%81%E7%AD%89%E7%AD%89%E5%86%99%E4%BB%80%E4%B9%88%E6%98%AF%E5%AD%9D": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2104132164308530649": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2103852272970987363": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2104115931420914593": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2103982166627415283": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2104148078987104874": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2104065139158921877": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/666784251": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2103812903170318494": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/21959483": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.zhihu.com/question/2088657927603057759": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://openrouter.ai/blog/tutorials/ai-agent-infinite-loop/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://x.com/rohanpaul_ai/status/2120663635479625930": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.youtube.com/watch?v=C33hJGt-ySg": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://runwayml.com/news/company-news/praxis-1-is-now-available": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://alignment.anthropic.com/2026/worse-together/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.a16z.news/p/welcome-to-the-b2a-economy": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://x.com/rohanpaul_ai/status/2120526677247939001": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256359": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256209": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256329": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256413": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256357": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256332": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256244": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256202": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256363": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.v2ex.com/t/1256423": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706534471420461098": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706418656682803200": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7705988547135717386": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706740008510963722": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706354193473011775": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706354193472995391": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://juejin.cn/post/7706109620246724659": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.mcmillen.dev/sigbovik/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://github.com/aws/aws-emulator": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://jatorre.github.io/garden/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
+ },
+ "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/": {
+  "first": "2026-11-12",
+  "last": "2026-11-12"
  }
 }
