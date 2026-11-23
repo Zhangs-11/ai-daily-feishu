@@ -1,243 +1,11 @@
 {
- "https://juejin.cn/post/7707101130299539496": {
-  "first": "2026-11-13",
-  "last": "2026-11-15"
- },
- "https://juejin.cn/post/7707194766860025907": {
-  "first": "2026-11-14",
-  "last": "2026-11-15"
- },
- "https://juejin.cn/post/7707100499275546666": {
-  "first": "2026-11-14",
-  "last": "2026-11-15"
- },
- "https://juejin.cn/post/7707231949409026058": {
-  "first": "2026-11-14",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=115%E5%AE%B6%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E5%8F%82%E5%8A%A0%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=Knight%E8%B5%9B%E5%90%8E%E6%84%9F%E8%B0%A2Faker": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=Viper%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E7%95%99%E5%9C%A8BLG": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E4%B8%9A%E5%86%85%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B0500%E5%85%83%E4%BB%A5%E4%B8%8B%E7%BE%BD%E7%BB%92%E6%9C%8D": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A95%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E7%BB%88%E6%9C%AB%E6%9C%9F%E5%A6%82%E4%BB%8A%E5%B7%B245%E5%B2%81": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%B6%A8%E4%BB%B7": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A0%92%E9%9C%9C%E6%B2%BB%E7%96%97%E6%88%90%E5%9B%BD%E9%99%85%E6%96%B9%E6%A1%88": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=Tim%E5%9B%9E%E5%BA%94%E9%80%81iPhoneDuo": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E8%80%81%E5%B8%88%E7%94%9F%E5%AD%A9%E5%AD%90%E6%B2%A1%E7%90%86%E6%80%A7%E6%9B%B4%E6%B2%A1%E4%BA%BA%E6%80%A7": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%E5%8E%9F%E5%9B%A0": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=TheShy%E5%8E%86%E5%8F%B2%E5%9C%B0%E4%BD%8D%E9%81%AD%E9%87%8D%E4%BC%B0": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E7%BB%8F%E6%B5%8E%E5%86%85%E7%94%9F%E5%8A%A8%E5%8A%9B%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%BC%BA": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://s.weibo.com/weibo?q=%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E7%BB%93%E5%A9%9A%E4%B8%8D%E6%94%B6%E5%BD%A9%E7%A4%BC": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2105016991765509602": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2105214731573096596": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2103430981067846812": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2104510599564636472": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2104894785022604238": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2105210095055459716": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2104966310362879741": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/8693825512": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/2104925918871529406": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.zhihu.com/question/307479952": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.interconnects.ai/p/open-source-ai-without-jensen": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257128": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257146": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257073": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257076": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257109": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257054": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257158": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257045": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257127": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.v2ex.com/t/1257137": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
  "https://juejin.cn/post/7707593859757539366": {
   "first": "2026-11-15",
   "last": "2026-11-16"
  },
- "https://juejin.cn/post/7707205288390803466": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://juejin.cn/post/7707106224123166755": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
  "https://juejin.cn/post/7707235507143491624": {
   "first": "2026-11-15",
   "last": "2026-11-16"
- },
- "https://juejin.cn/post/7707204560720642089": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://juejin.cn/post/7707109094009454642": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.spacex.com/launches/starship-flight-15": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://forge-blog.github.io/posts/rust-std-memory-safety/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.crissyfield.de/research/lovable-en/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://retrocomputing.stackexchange.com/questions/17957": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://github.com/matheuzgomes/gawain": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://github.com/Tthanh2k6/turbo-browser-mcp": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
- },
- "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/": {
-  "first": "2026-11-15",
-  "last": "2026-11-15"
  },
  "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C": {
   "first": "2026-11-16",
@@ -1749,7 +1517,7 @@
  },
  "https://juejin.cn/post/7710140388782424102": {
   "first": "2026-11-22",
-  "last": "2026-11-22"
+  "last": "2026-11-23"
  },
  "https://juejin.cn/post/7709320811032100874": {
   "first": "2026-11-22",
@@ -1798,5 +1566,245 @@
  "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really": {
   "first": "2026-11-22",
   "last": "2026-11-22"
+ },
+ "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%A1%80%E5%8E%8B130%E5%88%B0139%E4%B8%8D%E5%86%8D%E6%98%AF%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E5%B0%86%E6%89%93%E9%80%A0%E4%B8%80%E5%88%BB%E9%92%9F%E6%89%98%E8%82%B2%E6%9C%8D%E5%8A%A1%E5%9C%88": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%AD%A3%E9%9D%A2%E8%B4%B4%E8%84%B8%E6%96%87%E5%90%89%E5%84%BF": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%84%86%E8%84%86%E7%82%B8%E9%B8%A1%E8%80%81%E6%9D%BF%E5%BC%BA%E8%B0%83%E5%85%AB%E7%99%BE%E9%81%8D%E6%98%AF%E5%81%9A%E6%8A%AB%E8%90%A8%E7%9A%84": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A6%81%E6%8B%9B2%E5%B2%81%E5%AD%A9%E5%AD%90%E4%BA%86": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E4%B9%B0%E5%9B%9E%E4%B8%80%E5%A5%97%E7%BA%B8%E8%B4%A8%E7%89%88%E7%9F%AD%E5%89%A7": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%B0%B1%E5%9C%A8%E7%99%BB%E6%9C%BA%E5%8F%A3%E6%89%94%E7%A1%AC%E5%B8%81": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%AF%B4%E4%BD%A0%E8%AE%A9%E6%88%91%E4%BB%AC%E7%BB%99%E5%A5%BD%E8%84%B8": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E8%94%A1%E7%90%B4%E9%A6%96%E6%AC%A1%E6%BE%84%E6%B8%85%E6%97%A0%E6%80%A7%E5%A9%9A%E5%A7%BB": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=treetree%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%89%E5%A4%A9%E6%B6%A8%E7%99%BE%E4%B8%87%E7%B2%89": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=369%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7Bin": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2107618428508792525": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2107184597846975042": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2105992057642865192": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2108116147598054620": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2105195950671245354": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2108134885441396854": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2107787943242896234": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2107780639281735166": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2108138922257733070": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.zhihu.com/question/2104534044243226645": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://mp.weixin.qq.com/s/gwj0xLNHPfToQnQJN7IkMA": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://x.com/OpenBMB/status/2124461770043785636": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://x.com/OpenBMB/status/2124464239670964531": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://openai.com/index/perplexity-and-intelligence": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.ithome.com/1/030/677.htm": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1258966": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259038": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259034": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259006": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259003": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1258991": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1258995": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259022": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.v2ex.com/t/1259101": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710170786309226511": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710577867138367551": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710892674455126070": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710123265189412904": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710090550490415114": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710060982517432356": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710140388783603750": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710455506234327080": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://juejin.cn/post/7710433033854435354": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://spelunkr.tv": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://github.com/AFK-surf/xnulinux": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://phoenix.labri.fr/software/tempo/": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://openai.com/index/perplexity-and-intelligence/": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
+ },
+ "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20": {
+  "first": "2026-11-23",
+  "last": "2026-11-23"
  }
 }
